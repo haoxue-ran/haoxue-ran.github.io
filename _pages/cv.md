@@ -1,3 +1,4 @@
+[📄 Download Full CV (PDF)](/files/CV_Haoxue_Ran.pdf){: .btn .btn--primary}
 ---
 layout: archive
 title: "CV"

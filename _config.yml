@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "bio-photo.png"
   name             : "Haoxue Ran"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he" # example: "she/her"  
   bio              : "PhD Candidate in Environmental Engineering at XAUAT"
   location         : "Xi'an, China"
   employer         : "Xi'an University of Architecture and Technology"
@@ -35,10 +35,10 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=zXoYYp0AAAAJ&hl=zh-CN"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0009-5373-0983"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

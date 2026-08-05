@@ -3,7 +3,7 @@ title: "Quantitative decoupling of the key factors and mechanisms of Fenton-pret
 collection: publications
 category: manuscripts
 permalink: /publication/2026-06-water-research
-excerpt: 'This study develops an interpretable machine learning and causal inference framework, integrated with multi-scale Molecular Dynamics (MD) simulations, to quantitatively decouple key factors and interfacial mechanisms in Fenton-pretreated membrane fouling mitigation.'
+excerpt: '<img src="/images/wr_2026_ga.png" style="max-width: 100%; height: auto; margin-bottom: 12px; border: 1px solid #e0e0e0; border-radius: 6px;"><br>This study develops an interpretable machine learning and causal inference framework, integrated with multi-scale Molecular Dynamics (MD) simulations, to quantitatively decouple key factors and interfacial mechanisms in Fenton-pretreated membrane fouling mitigation.'
 date: 2026-06-15
 venue: 'Water Research'
 paperurl: 'https://doi.org/10.1016/j.watres.2026.126247' 

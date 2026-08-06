@@ -1,5 +1,5 @@
 ---
-title: "Mechanisms of Trace Fe2+/H2O2 Pretreatment on Organic Fouling Behaviors of Ultrafiltration Membranes"
+title: "Mechanisms of Trace Fe<sup>2+</sup>/H<sub>2</sub>O<sub>2</sub> Pretreatment on Organic Fouling Behaviors of Ultrafiltration Membranes"
 collection: talks
 type: "Oral Presentation & Session Chair"
 permalink: /talks/2025-05-12-tsinghua-conference

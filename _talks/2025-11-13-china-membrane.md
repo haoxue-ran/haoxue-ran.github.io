@@ -9,5 +9,4 @@ location: "Xi'an, China"
 ---
 
 <img src="/images/xian_2025_photo.jpg" style="float: right; max-width: 280px; margin-left: 15px; border: 1px solid #e0e0e0; border-radius: 6px;">
-
-This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+<div style="clear: both; padding-top: 20px; border-bottom: 1px solid #e0e0e0;"></div>

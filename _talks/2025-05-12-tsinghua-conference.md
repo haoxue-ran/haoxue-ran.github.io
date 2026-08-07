@@ -8,8 +8,7 @@ date: 2025-05-12
 location: "Beijing, China"
 ---
 
-<div markdown="1" style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px; padding-bottom: 20px; border-bottom: 1px solid #e0e0e0; margin-top: 15px;">
-<div markdown="1" style="flex: 1; text-align: justify;">
+<div markdown="1" style="text-align: justify; padding-bottom: 20px; border-bottom: 1px solid #e0e0e0; margin-top: 15px;">
 
 **Role: Oral Presentation & Session Chair**
-<div style="clear: both; padding-top: 20px; border-bottom: 1px solid #e0e0e0;"></div>
+</div>

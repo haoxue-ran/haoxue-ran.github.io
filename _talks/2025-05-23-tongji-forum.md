@@ -8,7 +8,6 @@ date: 2025-05-23
 location: "Shanghai, China"
 ---
 
-🏆 **Awarded: Best Presentation Award**
-
 <img src="/images/tongji_2025_photo.jpg" style="float: right; max-width: 280px; margin-left: 15px; border: 1px solid #e0e0e0; border-radius: 6px;">
-This is a description of your talk, which is a markdown file that can be all markdown-ified like any other post. Yay markdown!
+🏆 **Awarded: Best Presentation Award**
+<div style="clear: both; padding-top: 20px; border-bottom: 1px solid #e0e0e0;"></div>

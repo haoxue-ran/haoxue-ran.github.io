@@ -8,5 +8,11 @@ date: 2025-11-13
 location: "Xi'an, China"
 ---
 
-<img src="/images/xian_2025_photo.jpg" style="float: right; max-width: 280px; margin-left: 15px; border: 1px solid #e0e0e0; border-radius: 6px;">
-<div style="clear: both; padding-top: 20px; border-bottom: 1px solid #e0e0e0;"></div>
+<div markdown="1" style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px; padding-bottom: 20px; border-bottom: 1px solid #e0e0e0; margin-top: 15px;">
+<div markdown="1" style="flex: 1; text-align: justify;">
+
+</div>
+<div style="flex-shrink: 0;">
+  <img src="/images/xian_2025_photo.jpg" style="width: 220px; max-height: 170px; object-fit: cover; border-radius: 6px; border: 1px solid #e0e0e0; box-shadow: 0 2px 5px rgba(0,0,0,0.08);">
+</div>
+</div>

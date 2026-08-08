@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-<div style="font-size: 1.02rem; line-height: 1.7; color: #334155; text-align: justify; margin-top: 25px;">
+<div style="font-size: 1.02rem; line-height: 1.7; color: #334155; text-align: justify; margin-top: 20px;">
 
   <!-- Section 1: Biography -->
-  <section style="margin-bottom: 50px;">
-    <h2 style="font-size: 1.45em; font-weight: 700; color: #0f172a; border-bottom: 2.5px solid #2563eb; padding-bottom: 8px; margin-bottom: 20px; margin-top: 0;">
+  <section style="margin-bottom: 40px;">
+    <h2 style="font-size: 1.4em; font-weight: 700; color: #0f172a; border-bottom: 2.5px solid #2563eb; padding-bottom: 8px; margin-bottom: 20px; margin-top: 0;">
       Biography
     </h2>
     
@@ -19,17 +19,16 @@ redirect_from:
       I am Haoxue Ran, a Ph.D. candidate in Environmental Science and Engineering at the School of Environmental and Municipal Engineering, <span style="color: #1d4ed8; font-weight: 600;">Xi'an University of Architecture and Technology (XAUAT)</span>. I conduct my research under the supervision of <strong style="color: #0f172a;">Prof. Rui Miao</strong> and collaborate closely with <strong style="color: #0f172a;">Associate Researcher Jin Zhao</strong> at Xi'an Jiaotong University.
     </p>
 
-    <!-- 博后意向声明高亮框 -->
     <div style="background-color: #f8fafc; border-left: 4px solid #2563eb; padding: 14px 18px; border-radius: 0 6px 6px 0; margin-top: 18px;">
       <p style="margin: 0; color: #1e293b; font-size: 0.98em;">
-        My expected graduation date is <strong>June 2027</strong>. I am actively seeking international <strong>Postdoctoral Positions (starting in Fall 2027)</strong> in advanced water treatment, membrane separation technology, and data-driven environmental science.
+        <i class="fas fa-graduation-cap" style="color: #2563eb; margin-right: 6px;"></i> My expected graduation date is <strong>June 2027</strong>. I am actively seeking international <strong>Postdoctoral Positions (starting in Fall 2027)</strong> in advanced water treatment, membrane separation technology, and data-driven environmental science.
       </p>
     </div>
   </section>
 
   <!-- Section 2: Research Interests -->
-  <section style="margin-bottom: 38px;">
-    <h2 style="font-size: 1.45em; font-weight: 700; color: #0f172a; border-bottom: 2.5px solid #2563eb; padding-bottom: 8px; margin-bottom: 20px;">
+  <section style="margin-bottom: 40px;">
+    <h2 style="font-size: 1.4em; font-weight: 700; color: #0f172a; border-bottom: 2.5px solid #2563eb; padding-bottom: 8px; margin-bottom: 20px;">
       Research Interests
     </h2>
     
@@ -52,7 +51,7 @@ redirect_from:
 
   <!-- Section 3: News -->
   <section style="margin-bottom: 25px;">
-    <h2 style="font-size: 1.45em; font-weight: 700; color: #0f172a; border-bottom: 2.5px solid #2563eb; padding-bottom: 8px; margin-bottom: 20px;">
+    <h2 style="font-size: 1.4em; font-weight: 700; color: #0f172a; border-bottom: 2.5px solid #2563eb; padding-bottom: 8px; margin-bottom: 20px;">
       News
     </h2>
 

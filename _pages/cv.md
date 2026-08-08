@@ -9,8 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-<div style="margin: 15px 0 25px 0;">
-  <a href="/files/CV_Haoxue_Ran.pdf" target="_blank" class="btn btn--primary" style="font-weight: 600;">
-    <i class="fas fa-file-download" style="margin-right: 6px;"></i> Download Full CV (PDF)
-  </a>
+<div style="font-size: 1.02rem; line-height: 1.7; color: #334155; text-align: justify; margin-top: 20px;">
+
+  <!-- Download Button -->
+  <div style="margin-bottom: 25px;">
+    <a href="/files/CV_Haoxue_Ran.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #2563eb; color: #ffffff; font-weight: 600; text-decoration: none; border-radius: 6px; box-shadow: 0 2px 5px rgba(37,99,235,0.2); transition: all 0.2s ease;">
+      <i class="fas fa-file-download" style="margin-right: 8px;"></i> Download Full CV (PDF)
+    </a>
+  </div>
+
 </div>

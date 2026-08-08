@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify; line-height: 1.6;">
+<div markdown="1" style="text-align: justify; line-height: 1.6;">
   
 ## Biography
 

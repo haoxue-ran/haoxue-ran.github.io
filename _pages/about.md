@@ -10,7 +10,7 @@ redirect_from:
 <div style="font-size: 1.02rem; line-height: 1.7; color: #334155; text-align: justify; margin-top: 25px;">
 
   <!-- Section 1: Biography -->
-  <section style="margin-bottom: 38px;">
+  <section style="margin-bottom: 50px;">
     <h2 style="font-size: 1.45em; font-weight: 700; color: #0f172a; border-bottom: 2.5px solid #2563eb; padding-bottom: 8px; margin-bottom: 20px; margin-top: 0;">
       Biography
     </h2>
@@ -22,7 +22,7 @@ redirect_from:
     <!-- 博后意向声明高亮框 -->
     <div style="background-color: #f8fafc; border-left: 4px solid #2563eb; padding: 14px 18px; border-radius: 0 6px 6px 0; margin-top: 18px;">
       <p style="margin: 0; color: #1e293b; font-size: 0.98em;">
-        🎓 My expected graduation date is <strong>June 2027</strong>. I am actively seeking international <strong>Postdoctoral Positions (starting in Fall 2027)</strong> in advanced water treatment, membrane separation technology, and data-driven environmental science.
+        My expected graduation date is <strong>June 2027</strong>. I am actively seeking international <strong>Postdoctoral Positions (starting in Fall 2027)</strong> in advanced water treatment, membrane separation technology, and data-driven environmental science.
       </p>
     </div>
   </section>

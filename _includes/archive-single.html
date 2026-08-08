@@ -1,9 +1,11 @@
 {% include base_path %}
 
-{% if post.header.teaser %}
-  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% if post.teaser_img %}
+  {% assign teaser = post.teaser_img %}
+{% elsif post.header.teaser %}
+  {% assign teaser = post.header.teaser %}
 {% else %}
-  {% assign teaser = site.teaser %}
+  {% assign teaser = nil %}
 {% endif %}
 
 {% if post.id %}
@@ -37,10 +39,10 @@
     </div>
 
     <!-- 右侧：固定图片 -->
-    {% if post.teaser_img %}
+    {% if teaser %}
     <div style="flex-shrink: 0;">
       <a href="{{ base_path }}{{ post.url }}">
-        <img src="{{ post.teaser_img }}" alt="Graphical Abstract" style="width: 210px; height: 135px; object-fit: cover; border-radius: 6px; border: 1px solid #e2e8f0; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+        <img src="{% if teaser contains '://' %}{{ teaser }}{% else %}{{ teaser | prepend: base_path }}{% endif %}" alt="Graphical Abstract" style="width: 210px; height: 135px; object-fit: cover; border-radius: 6px; border: 1px solid #e2e8f0; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
       </a>
     </div>
     {% endif %}

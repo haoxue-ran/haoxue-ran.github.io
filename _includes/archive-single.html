@@ -38,11 +38,11 @@
       {% endif %}
     </div>
 
-    <!-- 右侧：固定图片 -->
+    <!-- 右侧：完整显示图片（使用 contain 缩放模式） -->
     {% if teaser %}
     <div style="flex-shrink: 0;">
       <a href="{{ base_path }}{{ post.url }}">
-        <img src="{% if teaser contains '://' %}{{ teaser }}{% else %}{{ teaser | prepend: base_path }}{% endif %}" alt="Graphical Abstract" style="width: 210px; height: 135px; object-fit: cover; border-radius: 6px; border: 1px solid #e2e8f0; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+        <img src="{% if teaser contains '://' %}{{ teaser }}{% else %}{{ teaser | prepend: base_path }}{% endif %}" alt="Graphical Abstract" style="width: 220px; height: 135px; object-fit: contain; background-color: #fafafa; border-radius: 6px; border: 1px solid #e2e8f0; padding: 4px; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
       </a>
     </div>
     {% endif %}

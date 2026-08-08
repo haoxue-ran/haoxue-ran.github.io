@@ -3,7 +3,8 @@ title: "In situ acid production by organic matter induced with trace homogeneous
 collection: publications
 category: manuscripts
 permalink: /publication/2024-05-wr
-excerpt: '<img src="/images/wr_2024_ga.png" style="float: right; width: 220px; height: 140px; object-fit: cover; margin-left: 20px; border: 1px solid #e2e8f0; border-radius: 6px; box-shadow: 0 2px 5px rgba(0,0,0,0.05);"> This study reveals a novel mechanism of in situ acid production induced by organic matter under trace homogeneous Fenton reagent, providing a highly efficient strategy for membrane fouling control without heavy chemical dosage.'
+teaser_img: '/images/wr_2024_ga.png'
+excerpt_text: 'This study reveals a novel mechanism of in situ acid production induced by organic matter under trace homogeneous Fenton reagent, providing a highly efficient strategy for membrane fouling control without heavy chemical dosage.'
 date: 2024-05-15
 venue: 'Water Research'
 paperurl: 'https://doi.org/10.1016/j.watres.2024.121752' 
@@ -23,3 +24,9 @@ citation: 'Miao, R., Ran, H., Zhao, J., & Wang, L*. (2024). "In situ acid produc
 * **In Situ Acidification Mechanism**: Discovered a novel organic matter-induced *in situ* acid production pathway triggered by trace homogeneous Fenton reagent.
 * **Low-Chemical Fouling Control**: Achieved superior membrane fouling mitigation while substantially reducing chemical consumption and acid-base neutralization demands.
 * **Interfacial Dynamics**: Elucidated the localized micro-pH modulation, foulant structural disaggregation, and electrostatic interaction changes at the membrane-water interface.
+
+---
+
+### <i class="fas fa-file-alt" style="color: #2563eb; margin-right: 6px;"></i> Abstract
+
+Membrane fouling remains a major bottleneck in advanced wastewater treatment. In this study, a novel strategy utilizing trace homogeneous Fenton reagent is proposed to induce in situ acid production directly by organic foulants, thereby achieving effective membrane fouling mitigation without conventional heavy acid additions. The localized micro-pH decrease disaggregates foulant layers and modulates interfacial interactions at the membrane surface, significantly lowering filtration resistance and improving cleaning efficiency.

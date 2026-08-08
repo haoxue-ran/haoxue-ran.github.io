@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<div style="text-align: justify; line-height: 1.6;">
+  
 ## Biography
 
 I am Ran Haoxue, a Ph.D. candidate majoring in Environmental Science and Engineering at the School of Environmental and Municipal Engineering, **Xi'an University of Architecture and Technology (XAUAT)**. I conduct my research within the academic team of **Prof. Rui Miao** and collaborate closely with **Associate Researcher Jin Zhao** from Xi'an Jiaotong University. 

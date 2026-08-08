@@ -25,6 +25,6 @@ My research lies at the dynamic interface of **Membrane Separation Technology** 
 
 ## News
 * **2026-08**: Upcoming oral presentation at the *8th IWA Regional Membrane Technology Conference (IWA-RMTC 2026)* in Shanghai, China.
-* **2026-06**: Our manuscript, *"Quantitative decoupling of the key factors and mechanisms of Fenton-pretreated membrane fouling mitigation via machine learning-assisted causal inference"*, has been officially accepted for publication in ***Water Research***!
+* **2026-06**: Our manuscript *"Quantitative decoupling of the key factors and mechanisms of Fenton-pretreated membrane fouling mitigation via machine learning-assisted causal inference"* has been officially accepted for publication in ***Water Research***!
 
 </div>

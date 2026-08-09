@@ -7,6 +7,20 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  /* 突破 Academicpages 默认的主内容宽度限制，与其他页面保持完全一致 */
+  .page {
+    padding-right: 0 !important;
+  }
+  .page__content {
+    max-width: 100% !important;
+    width: 100% !important;
+  }
+  .archive {
+    width: 100% !important;
+  }
+</style>
+
 <div style="font-size: 1.02rem; line-height: 1.7; color: #334155; text-align: justify; margin-top: 15px;">
 
   <!-- Section 1: Biography -->

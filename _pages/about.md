@@ -7,26 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-<style>
-  /* 强行突破 Academicpages 默认的主内容宽度限制 */
-  .page {
-    padding-right: 0 !important;
-  }
-  .page__content {
-    max-width: 100% !important;
-    width: 100% !important;
-  }
-  .archive {
-    width: 100% !important;
-  }
-</style>
-
 <div style="font-size: 1.02rem; line-height: 1.7; color: #334155; text-align: justify; margin-top: 15px;">
 
   <!-- Section 1: Biography -->
   <section style="margin-bottom: 40px;">
-    <h2 style="font-size: 1.4em; font-weight: 700; color: #0f172a; border-bottom: 2.5px solid #2563eb; padding-bottom: 8px; margin-bottom: 20px; margin-top: 0;">
-      Biography
+    <h2 style="font-size: 1.35em; font-weight: 700; color: #0f172a; border-bottom: 2.5px solid #2563eb; padding-bottom: 8px; margin-bottom: 20px; margin-top: 0;">
+      <i class="fas fa-user-tie" style="color: #2563eb; margin-right: 8px;"></i> Biography
     </h2>
     
     <p style="margin-bottom: 16px;">
@@ -42,8 +28,8 @@ redirect_from:
 
   <!-- Section 2: Research Interests -->
   <section style="margin-bottom: 40px;">
-    <h2 style="font-size: 1.4em; font-weight: 700; color: #0f172a; border-bottom: 2.5px solid #2563eb; padding-bottom: 8px; margin-bottom: 20px;">
-      Research Interests
+    <h2 style="font-size: 1.35em; font-weight: 700; color: #0f172a; border-bottom: 2.5px solid #2563eb; padding-bottom: 8px; margin-bottom: 20px;">
+      <i class="fas fa-lightbulb" style="color: #2563eb; margin-right: 8px;"></i> Research Interests
     </h2>
     
     <p style="margin-bottom: 16px;">
@@ -65,8 +51,8 @@ redirect_from:
 
   <!-- Section 3: News -->
   <section style="margin-bottom: 25px;">
-    <h2 style="font-size: 1.4em; font-weight: 700; color: #0f172a; border-bottom: 2.5px solid #2563eb; padding-bottom: 8px; margin-bottom: 20px;">
-      News
+    <h2 style="font-size: 1.35em; font-weight: 700; color: #0f172a; border-bottom: 2.5px solid #2563eb; padding-bottom: 8px; margin-bottom: 20px;">
+      <i class="fas fa-newspaper" style="color: #2563eb; margin-right: 8px;"></i> News
     </h2>
 
     <ul style="padding-left: 20px; margin: 0; line-height: 1.85;">

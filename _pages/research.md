@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 <div class="hr-subpage">
+  <h2 class="hr-section-title">Research Overview</h2>
   <p>I work at the interface of membrane separation, interfacial chemistry, and environmental data science. My doctoral research develops trace-dose Fenton pretreatment technologies and data-driven frameworks for membrane fouling control, combining experimental characterization with explainable machine learning, causal inference, and molecular dynamics simulation.</p>
 
   <h2 class="hr-section-title">Research Directions</h2>

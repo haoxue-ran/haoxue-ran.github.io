@@ -54,8 +54,25 @@ a {
   font-weight: 800;
 }
 
+.masthead__menu-item--lg {
+  display: none !important;
+}
+
+#main {
+  max-width: 1400px;
+}
+
+.page,
+.archive {
+  max-width: 100%;
+}
+
+.page__footer-follow {
+  display: none !important;
+}
+
 .hr-home {
-  max-width: 1120px;
+  max-width: 1400px;
   margin: 0 auto;
 }
 
@@ -258,6 +275,138 @@ a {
   text-transform: uppercase;
   font-size: 0.78rem;
   letter-spacing: 0.08em;
+}
+
+/* Unify inner pages with the new typography */
+
+.page__title {
+  color: var(--navy);
+  font-size: 2.2rem;
+  font-weight: 800;
+  border-bottom: 3px solid var(--gold);
+  padding-bottom: 0.6rem;
+}
+
+.page__content h2 {
+  color: var(--navy);
+  font-size: 1.65rem;
+  font-weight: 800;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 0.45rem;
+  margin-top: 2rem;
+}
+
+.page__content h3 {
+  color: var(--navy);
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin-top: 1.5rem;
+}
+
+.page__content p,
+.page__content li {
+  color: var(--muted);
+  line-height: 1.75;
+}
+
+.archive__item-title {
+  font-size: 1.12rem;
+  font-weight: 700;
+  line-height: 1.4;
+}
+
+.archive__item-title a {
+  color: var(--navy);
+}
+
+.archive__item-title a:hover {
+  color: var(--steel);
+}
+
+.archive__item-excerpt {
+  color: var(--muted);
+  line-height: 1.65;
+}
+
+.archive__item-date,
+.archive__item-citation,
+.page__content .wordwrap {
+  color: var(--steel);
+  font-size: 0.9rem;
+}
+
+.archive__item img {
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  max-width: 280px;
+}
+
+.cv-list li,
+.page__content ul li {
+  margin-bottom: 0.6rem;
+}
+
+/* Dark mode */
+
+html[data-theme="dark"] body {
+  background: #0f1b24;
+  color: #dce6ec;
+}
+
+html[data-theme="dark"] h1,
+html[data-theme="dark"] h2,
+html[data-theme="dark"] h3,
+html[data-theme="dark"] h4,
+html[data-theme="dark"] .page__title,
+html[data-theme="dark"] .archive__item-title a,
+html[data-theme="dark"] .hr-section h2 {
+  color: #f3f7f9;
+}
+
+html[data-theme="dark"] .page__content p,
+html[data-theme="dark"] .page__content li,
+html[data-theme="dark"] .archive__item-excerpt,
+html[data-theme="dark"] .hr-body,
+html[data-theme="dark"] .hr-card p,
+html[data-theme="dark"] .hr-news-list span,
+html[data-theme="dark"] .hr-pub p {
+  color: #b9c8d1;
+}
+
+html[data-theme="dark"] .masthead {
+  background: #0f1b24;
+  border-bottom-color: #2b3f4c;
+}
+
+html[data-theme="dark"] .masthead__menu-item a {
+  color: #dce6ec;
+}
+
+html[data-theme="dark"] .hr-hero {
+  background: #102b42;
+}
+
+html[data-theme="dark"] .hr-card,
+html[data-theme="dark"] .hr-pub {
+  background: #14232e;
+  border-color: #2b3f4c;
+}
+
+html[data-theme="dark"] .hr-section,
+html[data-theme="dark"] .hr-news-list li,
+html[data-theme="dark"] .page__content h2 {
+  border-color: #2b3f4c;
+}
+
+html[data-theme="dark"] .hr-availability,
+html[data-theme="dark"] .hr-btn-primary {
+  color: #102b42;
+}
+
+html[data-theme="dark"] .author__content,
+html[data-theme="dark"] .author__urls,
+html[data-theme="dark"] .page__footer {
+  color: #b9c8d1;
 }
 
 @media (max-width: 900px) {

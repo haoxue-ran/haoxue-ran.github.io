@@ -27,6 +27,20 @@ redirect_from:
     </div>
   </section>
 
+  <section class="hr-profile">
+    <img src="/images/bio-photo.jpg" alt="Haoxue Ran">
+    <div>
+      <h2>Haoxue Ran</h2>
+      <p class="hr-profile-role">Ph.D. Candidate in Environmental Engineering, XAUAT</p>
+      <p class="hr-profile-text">Membrane fouling control · machine learning · causal inference · molecular simulation</p>
+      <p class="hr-profile-links">
+        <a href="mailto:haoxue.r@xauat.edu.cn">Email</a>
+        <a href="https://scholar.google.com/citations?user=zXoYYp0AAAAJ&hl=zh-CN">Google Scholar</a>
+        <a href="https://orcid.org/my-orcid?orcid=0009-0009-5373-0983">ORCID</a>
+      </p>
+    </div>
+  </section>
+
   <section class="hr-section">
     <span class="hr-kicker">Research Statement</span>
     <h2>I turn membrane fouling problems into interpretable data, mechanisms, and control strategies.</h2>

@@ -1,6 +1,9 @@
 # Header navigation
 
 main:
+  - title: "Home"
+    url: /
+
   - title: "Research"
     url: /research/
 

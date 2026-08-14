@@ -75,11 +75,30 @@ a {
   display: none !important;
 }
 
+.page__footer {
+  display: none !important;
+}
+
 .page__content i[class*="fa-"],
 .page__content i.fas,
 .page__content i.far,
 .author__urls i {
   display: none !important;
+}
+
+.page__content p,
+.page__content li,
+.archive__item-excerpt,
+.hr-card p,
+.hr-pub p,
+.hr-sub,
+.hr-body,
+.hr-lead,
+.talk-copy p,
+.info-block p,
+.hr-list,
+.hr-news-list span {
+  text-align: justify;
 }
 
 .hr-home {
@@ -92,6 +111,27 @@ a {
   color: #fff;
   padding: clamp(2.6rem, 6vw, 5.5rem);
   margin-bottom: 2.5rem;
+}
+
+.hr-hero-grid {
+  display: grid;
+  grid-template-columns: minmax(240px, 340px) 1fr;
+  gap: clamp(1.8rem, 4vw, 4rem);
+  align-items: center;
+}
+
+.hr-hero-photo {
+  width: 100%;
+  max-height: 420px;
+  object-fit: contain;
+  background: #fff;
+  padding: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  border-radius: 6px;
+}
+
+.hr-hero-copy {
+  min-width: 0;
 }
 
 .hr-eyebrow {
@@ -318,12 +358,17 @@ a {
   display: flex;
   flex-wrap: wrap;
   gap: 0.8rem;
+  margin: 0 0 1.2rem;
 }
 
 .hr-profile-links a {
   color: var(--navy);
   font-weight: 700;
   border-bottom: 2px solid var(--gold);
+}
+
+.hr-hero-copy .hr-profile-links a {
+  color: #fff;
 }
 
 .hr-text-link {
@@ -493,7 +538,6 @@ a {
   color: var(--navy);
   font-size: 2.2rem;
   font-weight: 800;
-  border-bottom: 3px solid var(--gold);
   padding-bottom: 0.6rem;
 }
 
@@ -596,6 +640,10 @@ html[data-theme="dark"] .hr-hero {
   background: #102b42;
 }
 
+html[data-theme="dark"] .hr-hero-copy .hr-profile-links a {
+  color: #fff;
+}
+
 html[data-theme="dark"] .hr-card,
 html[data-theme="dark"] .hr-pub {
   background: #14232e;
@@ -634,6 +682,19 @@ html[data-theme="dark"] .pub-thumb {
   border-color: #2b3f4c;
 }
 
+html[data-theme="dark"] .page__content p,
+html[data-theme="dark"] .page__content li,
+html[data-theme="dark"] .page__content div,
+html[data-theme="dark"] .page__content h3,
+html[data-theme="dark"] .page__content blockquote {
+  color: #b9c8d1 !important;
+}
+
+html[data-theme="dark"] .page__content h1,
+html[data-theme="dark"] .page__content h2 {
+  color: #f3f7f9 !important;
+}
+
 html[data-theme="dark"] .hr-section,
 html[data-theme="dark"] .hr-news-list li,
 html[data-theme="dark"] .page__content h2 {
@@ -654,6 +715,14 @@ html[data-theme="dark"] .page__footer {
 @media (max-width: 900px) {
   .hr-grid {
     grid-template-columns: 1fr;
+  }
+
+  .hr-hero-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .hr-hero-photo {
+    max-width: 320px;
   }
 
   .hr-profile,

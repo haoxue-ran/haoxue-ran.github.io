@@ -14,38 +14,23 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item" style="padding-bottom: 30px; margin-bottom: 30px; border-bottom: 1px solid #e2e8f0; clear: both;">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork" style="display: flex; justify-content: space-between; align-items: flex-start; gap: 24px;">
-    
-    <!-- 左侧：文字内容 -->
-    <div style="flex: 1; text-align: justify;">
-      <h2 class="archive__item-title" itemprop="headline" style="margin-top: 0; margin-bottom: 8px; font-size: 1.15em;">
-        {% if post.link %}
-          <a href="{{ post.link }}" style="color: #1d4ed8; font-weight: 700; line-height: 1.4;">{{ title }}</a>
-        {% else %}
-          <a href="{{ base_path }}{{ post.url }}" rel="permalink" style="color: #1d4ed8; font-weight: 700; line-height: 1.4;">{{ title }}</a>
-        {% endif %}
+<div class="pub-item">
+  <article class="archive__item">
+    <div class="pub-content">
+      <h2 class="archive__item-title">
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       </h2>
-      
-      <p style="color: #64748b; font-size: 0.9em; margin-bottom: 10px;">
-        Published in <i style="color: #0f172a; font-weight: 600;">{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
-      </p>
-
+      <p class="pub-meta">Published in <em>{{ post.venue }}</em>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
       {% if post.excerpt %}
-        <div class="archive__item-excerpt" itemprop="description" style="color: #334155; font-size: 0.95em; line-height: 1.55;">
+        <div class="archive__item-excerpt">
           {{ post.excerpt_text | default: post.excerpt | markdownify | strip_html }}
         </div>
       {% endif %}
     </div>
-
-    <!-- 右侧：完整显示图片（使用 contain 缩放模式） -->
     {% if teaser %}
-    <div style="flex-shrink: 0;">
-      <a href="{{ base_path }}{{ post.url }}">
-        <img src="{% if teaser contains '://' %}{{ teaser }}{% else %}{{ teaser | prepend: base_path }}{% endif %}" alt="Graphical Abstract" style="width: 220px; height: 135px; object-fit: contain; background-color: #fafafa; border-radius: 6px; border: 1px solid #e2e8f0; padding: 4px; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+      <a class="pub-thumb-link" href="{{ base_path }}{{ post.url }}">
+        <img class="pub-thumb" src="{% if teaser contains '://' %}{{ teaser }}{% else %}{{ teaser | prepend: base_path }}{% endif %}" alt="Graphical Abstract">
       </a>
-    </div>
     {% endif %}
-
   </article>
 </div>

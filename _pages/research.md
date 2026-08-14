@@ -4,8 +4,6 @@ title: "Research"
 author_profile: true
 ---
 
-## Research Statement
-
 I work at the interface of membrane separation, interfacial chemistry, and environmental data science. My doctoral research develops trace-dose Fenton pretreatment technologies and data-driven frameworks for membrane fouling control, combining experimental characterization with explainable machine learning, causal inference, and molecular simulation.
 
 ## Research Directions

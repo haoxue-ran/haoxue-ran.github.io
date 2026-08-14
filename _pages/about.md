@@ -1,45 +1,24 @@
 ---
 permalink: /
-title: "Haoxue Ran"
-author_profile: false
-classes: wide
+title: "About Me"
+author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-<style>
-  .page__inner-wrap > header {
-    display: none !important;
-  }
-</style>
-
 <div class="hr-home">
-  <div class="hr-intro-row">
-    <aside class="hr-side-profile">
-      <img src="/images/bio-photo.jpg" alt="Haoxue Ran">
-      <h2>Haoxue Ran</h2>
-      <p class="hr-profile-role">Ph.D. Candidate in Environmental Engineering</p>
-      <p class="hr-profile-text">Xi'an University of Architecture and Technology · Membrane fouling control · machine learning · causal inference · molecular simulation</p>
-      <p class="hr-profile-links">
-        <a href="mailto:haoxue.r@xauat.edu.cn">Email</a>
-        <a href="https://scholar.google.com/citations?user=zXoYYp0AAAAJ&amp;hl=zh-CN">Google Scholar</a>
-        <a href="https://orcid.org/my-orcid?orcid=0009-0009-5373-0983">ORCID</a>
-      </p>
-    </aside>
-
-    <section class="hr-hero">
-      <p class="hr-eyebrow">Ph.D. Candidate · Environmental Engineering · Xi'an University of Architecture and Technology</p>
-      <h1 class="hr-title">Membrane fouling control with machine learning and molecular insight.</h1>
-      <p class="hr-sub">I develop trace-Fenton pretreatment, explainable machine learning, causal inference, and molecular dynamics simulation to make membrane water treatment more efficient, interpretable, and sustainable.</p>
-      <div class="hr-availability">Seeking postdoctoral positions starting Fall 2027</div>
-      <div class="hr-actions">
-        <a class="hr-btn hr-btn-primary" href="/research/">Research</a>
-        <a class="hr-btn hr-btn-ghost" href="/publications/">Publications</a>
-        <a class="hr-btn hr-btn-ghost" href="/cv/">CV</a>
-      </div>
-    </section>
-  </div>
+  <section class="hr-hero">
+    <p class="hr-eyebrow">Ph.D. Candidate · Environmental Engineering · Xi'an University of Architecture and Technology</p>
+    <h1 class="hr-title">Membrane fouling control with machine learning and molecular insight.</h1>
+    <p class="hr-sub">I develop trace-Fenton pretreatment, explainable machine learning, causal inference, and molecular dynamics simulation to make membrane water treatment more efficient, interpretable, and sustainable.</p>
+    <div class="hr-availability">Seeking postdoctoral positions starting Fall 2027</div>
+    <div class="hr-actions">
+      <a class="hr-btn hr-btn-primary" href="/research/">Research</a>
+      <a class="hr-btn hr-btn-ghost" href="/publications/">Publications</a>
+      <a class="hr-btn hr-btn-ghost" href="/cv/">CV</a>
+    </div>
+  </section>
 
   <section class="hr-section">
     <span class="hr-kicker">Research Statement</span>

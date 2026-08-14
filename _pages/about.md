@@ -15,32 +15,36 @@ redirect_from:
 </style>
 
 <div class="hr-home">
-  <section class="hr-hero">
-    <div class="hr-hero-grid">
-      <img class="hr-hero-photo" src="/images/bio-photo.jpg" alt="Haoxue Ran">
-      <div class="hr-hero-copy">
-        <p class="hr-eyebrow">Ph.D. Candidate · Environmental Engineering · Xi'an University of Architecture and Technology</p>
-        <h1 class="hr-title">Membrane fouling control with machine learning and molecular insight.</h1>
-        <p class="hr-sub">I develop trace-Fenton pretreatment, explainable AI, causal inference, and molecular simulations to make membrane water treatment more efficient, interpretable, and sustainable.</p>
-        <p class="hr-profile-links">
-          <a href="mailto:haoxue.r@xauat.edu.cn">Email</a>
-          <a href="https://scholar.google.com/citations?user=zXoYYp0AAAAJ&amp;hl=zh-CN">Google Scholar</a>
-          <a href="https://orcid.org/my-orcid?orcid=0009-0009-5373-0983">ORCID</a>
-        </p>
-        <div class="hr-availability">Seeking postdoctoral positions starting Fall 2027</div>
-        <div class="hr-actions">
-          <a class="hr-btn hr-btn-primary" href="/research/">Research</a>
-          <a class="hr-btn hr-btn-ghost" href="/publications/">Publications</a>
-          <a class="hr-btn hr-btn-ghost" href="/cv/">CV</a>
-        </div>
+  <div class="hr-intro-row">
+    <aside class="hr-side-profile">
+      <img src="/images/bio-photo.jpg" alt="Haoxue Ran">
+      <h2>Haoxue Ran</h2>
+      <p class="hr-profile-role">Ph.D. Candidate in Environmental Engineering</p>
+      <p class="hr-profile-text">Xi'an University of Architecture and Technology · Membrane fouling control · machine learning · causal inference · molecular simulation</p>
+      <p class="hr-profile-links">
+        <a href="mailto:haoxue.r@xauat.edu.cn">Email</a>
+        <a href="https://scholar.google.com/citations?user=zXoYYp0AAAAJ&amp;hl=zh-CN">Google Scholar</a>
+        <a href="https://orcid.org/my-orcid?orcid=0009-0009-5373-0983">ORCID</a>
+      </p>
+    </aside>
+
+    <section class="hr-hero">
+      <p class="hr-eyebrow">Ph.D. Candidate · Environmental Engineering · Xi'an University of Architecture and Technology</p>
+      <h1 class="hr-title">Membrane fouling control with machine learning and molecular insight.</h1>
+      <p class="hr-sub">I develop trace-Fenton pretreatment, explainable machine learning, causal inference, and molecular dynamics simulation to make membrane water treatment more efficient, interpretable, and sustainable.</p>
+      <div class="hr-availability">Seeking postdoctoral positions starting Fall 2027</div>
+      <div class="hr-actions">
+        <a class="hr-btn hr-btn-primary" href="/research/">Research</a>
+        <a class="hr-btn hr-btn-ghost" href="/publications/">Publications</a>
+        <a class="hr-btn hr-btn-ghost" href="/cv/">CV</a>
       </div>
-    </div>
-  </section>
+    </section>
+  </div>
 
   <section class="hr-section">
     <span class="hr-kicker">Research Statement</span>
     <h2>I turn membrane fouling problems into interpretable data, mechanisms, and control strategies.</h2>
-    <p class="hr-lead">My work connects interfacial chemistry, membrane separation, and environmental data science. I use trace-dose Fenton chemistry to control organic fouling, explainable machine learning and causal inference to identify what actually matters, and molecular dynamics simulation to understand the microscopic mechanisms behind it.</p>
+    <p class="hr-lead">My research connects interfacial chemistry, membrane separation, and environmental data science. I develop trace-dose Fenton pretreatment strategies at neutral pH to mitigate organic membrane fouling and use interpretable machine learning, causal inference, and molecular dynamics simulation to identify the governing mechanisms.</p>
     <p class="hr-body">For a postdoctoral position, I want to move these methods from lab-scale demonstration toward robust, transferable design tools for water treatment, resource recovery, and membrane-based processes.</p>
   </section>
 
@@ -69,9 +73,9 @@ redirect_from:
   <section class="hr-section hr-news-section">
     <h2>News &amp; Highlights</h2>
     <ul class="hr-news-list">
-      <li><time>2026-08</time><div><strong>Oral Presentation</strong><span>8th IWA Regional Membrane Technology Conference, Shanghai</span></div></li>
-      <li><time>2026-06</time><div><strong>Water Research</strong><span>Machine learning-assisted causal inference for membrane fouling mitigation accepted for publication</span></div></li>
-      <li><time>2026-01</time><div><strong>Separation and Purification Technology</strong><span>Feature selection and interpretability in membrane flux prediction after Fenton pretreatment accepted for publication</span></div></li>
+      <li><time>2026-08</time><div><strong>Upcoming Oral Presentation</strong><span>8th IWA Regional Membrane Technology Conference, Shanghai</span></div></li>
+      <li><time>2026-06</time><div><strong>Accepted in Water Research</strong><span>Our manuscript on machine learning-assisted causal inference for membrane fouling mitigation has been officially accepted for publication.</span></div></li>
+      <li><time>2026-01</time><div><strong>Accepted in Separation and Purification Technology</strong><span>Our manuscript on feature selection and interpretability in membrane flux prediction after Fenton pretreatment has been officially accepted.</span></div></li>
       <li><time>2025-05</time><div><strong>Best Presentation Award</strong><span>20th National Graduate Environmental Forum, Tongji University</span></div></li>
     </ul>
   </section>

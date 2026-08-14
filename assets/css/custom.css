@@ -113,6 +113,56 @@ a {
   margin-bottom: 2.5rem;
 }
 
+.hr-intro-row {
+  display: grid;
+  grid-template-columns: minmax(260px, 340px) 1fr;
+  gap: clamp(1.8rem, 4vw, 4rem);
+  align-items: start;
+  margin-bottom: 2.5rem;
+}
+
+.hr-side-profile {
+  background: var(--cream);
+  border: 1px solid var(--line);
+  padding: 1.5rem;
+}
+
+.hr-side-profile img {
+  width: 100%;
+  max-height: 420px;
+  object-fit: contain;
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+}
+
+.hr-side-profile h2 {
+  margin: 1rem 0 0.4rem;
+}
+
+.hr-profile-role {
+  color: var(--steel);
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-size: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.hr-profile-text {
+  color: var(--muted);
+  line-height: 1.6;
+  margin-bottom: 0.9rem;
+}
+
+.hr-side-profile .hr-profile-links {
+  margin: 0;
+}
+
+.hr-side-profile .hr-profile-links a {
+  color: var(--navy);
+}
+
 .hr-hero-grid {
   display: grid;
   grid-template-columns: minmax(240px, 340px) 1fr;
@@ -640,6 +690,20 @@ html[data-theme="dark"] .hr-hero {
   background: #102b42;
 }
 
+html[data-theme="dark"] .hr-side-profile {
+  background: #14232e;
+  border-color: #2b3f4c;
+}
+
+html[data-theme="dark"] .hr-side-profile h2 {
+  color: #f3f7f9;
+}
+
+html[data-theme="dark"] .hr-side-profile img {
+  background: #0f1b24;
+  border-color: #2b3f4c;
+}
+
 html[data-theme="dark"] .hr-hero-copy .hr-profile-links a {
   color: #fff;
 }
@@ -719,6 +783,14 @@ html[data-theme="dark"] .page__footer {
 
   .hr-hero-grid {
     grid-template-columns: 1fr;
+  }
+
+  .hr-intro-row {
+    grid-template-columns: 1fr;
+  }
+
+  .hr-side-profile img {
+    max-height: 360px;
   }
 
   .hr-hero-photo {

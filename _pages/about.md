@@ -9,9 +9,9 @@ redirect_from:
 
 <div class="hr-home">
   <section class="hr-hero">
-    <p class="hr-eyebrow">Ph.D. Candidate · Environmental Engineering · Xi'an University of Architecture and Technology</p>
-    <h1 class="hr-title">Membrane fouling control with machine learning and molecular insight.</h1>
-    <p class="hr-sub">I develop trace-Fenton pretreatment, explainable machine learning, causal inference, and molecular dynamics simulation to make membrane water treatment more efficient, interpretable, and sustainable.</p>
+    <p class="hr-eyebrow">Research Identity · Membrane Fouling Control · Environmental Data Science</p>
+    <h1 class="hr-title">Decoding membrane fouling with chemistry, data, and molecular insight.</h1>
+    <p class="hr-sub">I combine trace-Fenton chemistry, explainable machine learning, causal inference, and molecular dynamics simulation to identify mechanisms and control strategies for membrane-based water treatment.</p>
     <div class="hr-availability">Seeking postdoctoral positions starting Fall 2027</div>
     <div class="hr-actions">
       <a class="hr-btn hr-btn-primary" href="/research/">Research</a>
@@ -22,9 +22,9 @@ redirect_from:
 
   <section class="hr-section">
     <span class="hr-kicker">Research Statement</span>
-    <h2>I turn membrane fouling problems into interpretable data, mechanisms, and control strategies.</h2>
-    <p class="hr-lead">My research connects interfacial chemistry, membrane separation, and environmental data science. I develop trace-dose Fenton pretreatment strategies at neutral pH to mitigate organic membrane fouling and use interpretable machine learning, causal inference, and molecular dynamics simulation to identify the governing mechanisms.</p>
-    <p class="hr-body">For a postdoctoral position, I want to move these methods from lab-scale demonstration toward robust, transferable design tools for water treatment, resource recovery, and membrane-based processes.</p>
+    <h2>Making membrane fouling mechanisms interpretable, quantifiable, and controllable.</h2>
+    <p class="hr-lead">My research connects interfacial chemistry, membrane separation, and environmental data science to make fouling control mechanisms interpretable and transferable.</p>
+    <p class="hr-body">I develop trace-dose Fenton pretreatment strategies at neutral pH to mitigate organic membrane fouling, and I use machine learning, causal inference, and molecular simulation to identify the mechanisms that govern filtration performance. I aim to move these methods from lab-scale demonstration toward robust design tools for water treatment, resource recovery, and membrane-based processes.</p>
   </section>
 
   <section class="hr-section hr-grid-wrap">

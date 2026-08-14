@@ -1,0 +1,291 @@
+:root {
+  --navy: #102b42;
+  --navy-2: #173f58;
+  --steel: #2a6784;
+  --aqua: #8fc9ca;
+  --gold: #c7a36a;
+  --cream: #f6f4ee;
+  --paper: #fffefb;
+  --ink: #17252f;
+  --muted: #61717c;
+  --line: #d9dedf;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body,
+button,
+input,
+select,
+textarea {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+body {
+  color: var(--ink);
+  background: var(--paper);
+  letter-spacing: 0;
+}
+
+h1, h2, h3, h4 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  letter-spacing: -0.02em;
+  color: var(--navy);
+}
+
+a {
+  color: var(--steel);
+}
+
+.masthead {
+  background: var(--paper);
+  border-bottom: 1px solid var(--line);
+}
+
+.masthead__menu-item a {
+  color: var(--ink);
+  font-weight: 600;
+}
+
+.masthead__menu-item--lg a {
+  color: var(--navy);
+  font-weight: 800;
+}
+
+.hr-home {
+  max-width: 1120px;
+  margin: 0 auto;
+}
+
+.hr-hero {
+  background: var(--navy);
+  color: #fff;
+  padding: clamp(2.6rem, 6vw, 5.5rem);
+  margin-bottom: 2.5rem;
+}
+
+.hr-eyebrow {
+  color: var(--aqua);
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  font-size: 0.75rem;
+  font-weight: 800;
+  margin-bottom: 1.4rem;
+}
+
+.hr-title {
+  color: #fff;
+  font-size: clamp(2.2rem, 5vw, 4.2rem);
+  line-height: 1.08;
+  max-width: 900px;
+  margin: 0 0 1.6rem;
+}
+
+.hr-sub {
+  color: #d7e1e6;
+  font-size: 1.05rem;
+  line-height: 1.75;
+  max-width: 760px;
+  margin: 0 0 1.8rem;
+}
+
+.hr-availability {
+  display: inline-block;
+  background: var(--gold);
+  color: var(--navy);
+  font-size: 0.85rem;
+  font-weight: 800;
+  padding: 0.55rem 0.9rem;
+  margin-bottom: 1.8rem;
+}
+
+.hr-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.hr-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.75rem 1.15rem;
+  font-size: 0.8rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  border: 1px solid transparent;
+}
+
+.hr-btn-primary {
+  background: var(--gold);
+  color: var(--navy);
+}
+
+.hr-btn-ghost {
+  border-color: rgba(255, 255, 255, 0.55);
+  color: #fff;
+}
+
+.hr-section {
+  padding: 2.8rem 0;
+  border-top: 1px solid var(--line);
+}
+
+.hr-kicker {
+  color: var(--steel);
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  font-size: 0.72rem;
+  font-weight: 800;
+}
+
+.hr-section h2 {
+  font-size: clamp(1.8rem, 3vw, 2.6rem);
+  line-height: 1.15;
+  margin: 0.8rem 0 1.4rem;
+}
+
+.hr-lead {
+  font-size: 1.2rem;
+  line-height: 1.7;
+  color: var(--ink);
+}
+
+.hr-body {
+  color: var(--muted);
+  line-height: 1.75;
+}
+
+.hr-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.2rem;
+}
+
+.hr-card {
+  border: 1px solid var(--line);
+  background: #fff;
+  padding: 1.6rem;
+  min-height: 240px;
+}
+
+.hr-card-index {
+  color: var(--gold);
+  font-size: 0.85rem;
+  font-weight: 800;
+}
+
+.hr-card h3 {
+  font-size: 1.25rem;
+  margin: 1.2rem 0 0.8rem;
+}
+
+.hr-card p {
+  color: var(--muted);
+  line-height: 1.65;
+  margin: 0;
+}
+
+.hr-news-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.hr-news-list li {
+  display: grid;
+  grid-template-columns: 90px 1fr;
+  gap: 1rem;
+  border-bottom: 1px solid var(--line);
+  padding: 1rem 0;
+}
+
+.hr-news-list time {
+  color: var(--steel);
+  font-weight: 800;
+}
+
+.hr-news-list strong {
+  display: block;
+  color: var(--navy);
+}
+
+.hr-news-list span {
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.hr-pubs {
+  display: grid;
+  gap: 1rem;
+}
+
+.hr-pub {
+  border-left: 4px solid var(--gold);
+  background: var(--cream);
+  padding: 1.2rem 1.4rem;
+}
+
+.hr-pub-venue {
+  display: inline-block;
+  color: var(--steel);
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-size: 0.7rem;
+  font-weight: 800;
+  margin-bottom: 0.6rem;
+}
+
+.hr-pub h3 {
+  margin: 0 0 0.5rem;
+  font-size: 1.15rem;
+}
+
+.hr-pub p {
+  color: var(--muted);
+  margin: 0;
+}
+
+.hr-text-link {
+  display: inline-block;
+  margin-top: 1.2rem;
+  border-bottom: 2px solid var(--gold);
+  color: var(--navy);
+  font-weight: 800;
+  text-transform: uppercase;
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+}
+
+@media (max-width: 900px) {
+  .hr-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 600px) {
+  .hr-hero {
+    padding: 2rem 1.25rem;
+  }
+
+  .hr-title {
+    font-size: 2rem;
+  }
+
+  .hr-actions {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .hr-btn {
+    width: 100%;
+  }
+
+  .hr-news-list li {
+    grid-template-columns: 1fr;
+    gap: 0.25rem;
+  }
+}

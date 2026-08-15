@@ -34,9 +34,9 @@ redirect_from:
 
   <section class="hr-section">
 
-    <span class="hr-kicker">Research Statement</span>
+    <h2>Research Statement</h2>
 
-    <h2>Bridging molecular-level interfacial interactions and data-driven intelligence for sustainable membrane-based water treatment.</h2>
+    <h3 class="hr-statement">Bridging molecular-level interfacial interactions and data-driven intelligence for sustainable membrane-based water treatment.</h3>
 
     <p class="hr-body">My research integrates trace-dose Fenton pretreatment, molecular dynamics (MD) simulations, and interpretable machine learning/causal inference to quantify how organic foulants, divalent cations (Ca<sup>2+</sup>, Mg<sup>2+</sup>), and co-solutes govern membrane fouling and its mitigation. My goal is to move membrane fouling control from empirical optimization toward mechanistic, predictive, and precision engineering for advanced water treatment, selective separation, and resource recovery.</p>
 

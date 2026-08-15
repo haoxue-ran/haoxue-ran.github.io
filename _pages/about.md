@@ -48,4 +48,3 @@ redirect_from:
     <a class="hr-text-link" href="/publications/">All publications &rarr;</a>
   </section>
 </div>
-请你在其基础上修改

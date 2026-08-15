@@ -1,25 +1,38 @@
 ---
 layout: archive
-title: "Publications & Patents"
+title: "Publications & Research Outputs"
 permalink: /publications/
 author_profile: true
 ---
 
 {% include base_path %}
 
-<div class="hr-subpage">
-  <h2 class="hr-section-title">Journal Articles</h2>
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
+<div class="hr-subpage hr-publications-page">
+  <p class="hr-page-intro">Peer-reviewed research spanning membrane-fouling mechanisms, trace-Fenton pretreatment, interfacial-force analysis, interpretable machine learning, and causal inference.</p>
 
-  <h2 class="hr-section-title">Patents &amp; Software Copyrights</h2>
-  <ul class="hr-list">
-    <li>Miao, R., <strong>Ran, H.</strong>, Wang, L., Lv, Y., Yang, C., &amp; Wang, Y. (2023). Method and application for membrane fouling control via Fe<sup>2+</sup>-H<sub>2</sub>O<sub>2</sub> induced in situ acid production. Chinese Invention Patent, CN202310381227.4.</li>
-    <li>Miao, R., <strong>Ran, H.</strong>, Zhao, C., Wang, S., Lei, Y., &amp; Zhang, J. (2025). Method for membrane fouling mechanism identification and regulation based on causal inference. Chinese Invention Patent, CN202511264800.9.</li>
-    <li>Miao, R., <strong>Ran, H.</strong>, Yang, Y., Wang, S., Lei, Y., &amp; Zhang, J. (2025). Machine learning-based method and system for optimal control of membrane fouling pretreatment. Chinese Invention Patent, CN202510539314.7.</li>
-    <li>Miao, R., <strong>Ran, H.</strong>, Wang, Y., Wang, S., Lei, Y., &amp; Zhang, J. (2025). Method and system for membrane fouling prediction and key factor identification/regulation. Chinese Invention Patent, CN202511401234.1.</li>
-    <li>Bai, S., <strong>Ran, H.</strong>, Wu, H., &amp; Zhou, P. (2020). Intelligent maintenance device for green building vegetation. Chinese Utility Model Patent, ZL202020307040.1.</li>
-    <li><strong>Ran, H.</strong>, Miao, R., Wang, S., Lei, Y., &amp; Zhang, J. (2025). Dosage optimization system for Fenton pretreatment-based membrane fouling mitigation. Chinese Computer Software Copyright, 2025SR2214520.</li>
-  </ul>
+  <div class="hr-stat-strip" aria-label="Research outputs at a glance">
+    <div class="hr-stat"><strong>4</strong><span>Journal articles</span></div>
+    <div class="hr-stat"><strong>2</strong><span>First-author articles</span></div>
+    <div class="hr-stat"><strong>5</strong><span>Patent records</span></div>
+    <div class="hr-stat"><strong>1</strong><span>Software copyright</span></div>
+  </div>
+
+  <div class="hr-publication-note"><span>* Corresponding author</span><span>My name is shown in bold</span></div>
+
+  <h2 class="hr-section-title">Peer-Reviewed Journal Articles</h2>
+  <div class="hr-journal-list">
+    {% for post in site.publications reversed %}
+      {% include publication-card.html %}
+    {% endfor %}
+  </div>
+
+  <h2 class="hr-section-title">Patents &amp; Software</h2>
+  <div class="hr-output-list">
+    <article><div class="hr-output-year">2025</div><div><span class="hr-output-type">Invention patent application</span><p>Miao, R., <strong>Ran, H.</strong>, Wang, Y., Wang, S., Lei, Y., &amp; Zhang, J. Method and system for membrane-fouling prediction and key-factor identification/regulation in Fenton pretreatment.</p><code>CN202511401234.1</code></div></article>
+    <article><div class="hr-output-year">2025</div><div><span class="hr-output-type">Invention patent application</span><p>Miao, R., <strong>Ran, H.</strong>, Zhao, C., Wang, S., Lei, Y., &amp; Zhang, J. Method for membrane-fouling mechanism identification and regulation based on causal inference.</p><code>CN202511264800.9</code></div></article>
+    <article><div class="hr-output-year">2025</div><div><span class="hr-output-type">Invention patent application</span><p>Miao, R., <strong>Ran, H.</strong>, Yang, Y., Wang, S., Lei, Y., &amp; Zhang, J. Machine-learning-based method and system for optimal control of membrane-fouling pretreatment.</p><code>CN202510539314.7</code></div></article>
+    <article><div class="hr-output-year">2025</div><div><span class="hr-output-type">Computer software copyright</span><p><strong>Ran, H.</strong>, Miao, R., Wang, S., Lei, Y., &amp; Zhang, J. Dosage-optimization system for Fenton-pretreatment-based membrane-fouling mitigation under various operating conditions.</p><code>2025SR2214520</code></div></article>
+    <article><div class="hr-output-year">2023</div><div><span class="hr-output-type">Invention patent application</span><p>Miao, R., <strong>Ran, H.</strong>, Wang, L., Lv, Y., Yang, C., &amp; Wang, Y. Method and application for membrane-fouling control via Fe<sup>2+</sup>–H<sub>2</sub>O<sub>2</sub>-induced in situ acid production from organic pollutants.</p><code>CN202310381227.4</code></div></article>
+    <article><div class="hr-output-year">2020</div><div><span class="hr-output-type">Granted utility model patent</span><p>Bai, S., <strong>Ran, H.</strong>, Wu, H., &amp; Zhou, P. Intelligent maintenance device for green-building vegetation.</p><code>ZL202020307040.1</code></div></article>
+  </div>
 </div>

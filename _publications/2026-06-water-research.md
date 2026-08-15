@@ -4,11 +4,15 @@ collection: publications
 category: manuscripts
 permalink: /publication/2026-06-water-research
 teaser_img: '/images/wr_2026_ga.png'
-excerpt_text: 'This study develops an interpretable machine learning and causal inference framework, integrated with multi-scale Molecular Dynamics (MD) simulations, to quantitatively decouple key factors and interfacial mechanisms in Fenton-pretreated membrane fouling mitigation.'
+excerpt_text: 'A progressive framework integrating machine learning, SHAP, and causal inference across three datasets (>6,700 samples) quantitatively resolves the pathways governing Fenton-induced membrane-fouling mitigation.'
 date: 2026-06-04
 venue: 'Water Research'
+authors: '<strong>Ran, H.</strong>, Miao, R.*, Zhao, J.*, Zhang, H., Wang, S., Zhang, J., Wang, P., Wang, L., & Yin, J.'
+volume: '303'
+article_number: '126247'
+author_role: 'First author'
 paperurl: 'https://doi.org/10.1016/j.watres.2026.126247'
-citation: 'Ran, H., Miao, R.*, Zhao, J.*, & Wang, L. (2026). "Quantitative decoupling of the key factors and mechanisms of Fenton-pretreated membrane fouling mitigation via machine learning-assisted causal inference." <i>Water Research</i>.'
+citation: 'Ran, H., Miao, R.*, Zhao, J.*, Zhang, H., Wang, S., Zhang, J., Wang, P., Wang, L., & Yin, J. (2026). "Quantitative decoupling of the key factors and mechanisms of Fenton-pretreated membrane fouling mitigation via machine learning-assisted causal inference." <i>Water Research</i>, 303, 126247.'
 ---
 
 ### <i class="fas fa-image" style="color: #2563eb; margin-right: 6px;"></i> Graphical Abstract

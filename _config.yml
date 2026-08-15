@@ -25,7 +25,9 @@ author:
   # Biographic information
   avatar           : "bio-photo.jpg"
   name             : "Haoxue Ran"
-  bio              : "PhD Candidate in Environmental Engineering at XAUAT"
+  bio              : "Ph.D. Candidate · Membrane Processes & Data-Driven Environmental Engineering"
+  status           : "Available for postdoctoral positions in 2027"
+  cv                : "/files/CV_Haoxue_Ran.pdf"
   location         : "Xi'an, China"
   employer         : "Xi'an University of Architecture and Technology"
   uri              : # URL
@@ -34,7 +36,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=zXoYYp0AAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=zXoYYp0AAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0009-5373-0983"

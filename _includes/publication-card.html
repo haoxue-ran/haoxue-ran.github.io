@@ -1,0 +1,14 @@
+{% include base_path %}
+{% assign teaser = post.teaser_img | default: post.header.teaser %}
+{% assign title = post.title %}
+<article class="pub-item">
+  <div class="pub-content">
+    <div class="pub-journal-line"><span>{{ post.venue }}</span><time>{{ post.date | date: "%Y" }}</time>{% if post.author_role %}<em>{{ post.author_role }}</em>{% endif %}</div>
+    <h3 class="archive__item-title"><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a></h3>
+    {% if post.authors %}<p class="pub-authors">{{ post.authors }}</p>{% endif %}
+    <p class="pub-bibliography"><em>{{ post.venue }}</em>{% if post.volume %}, {{ post.volume }}{% endif %}{% if post.article_number %}, {{ post.article_number }}{% endif %} ({{ post.date | date: "%Y" }})</p>
+    {% if post.excerpt %}<p class="archive__item-excerpt">{{ post.excerpt_text | default: post.excerpt | markdownify | strip_html }}</p>{% endif %}
+    <div class="hr-publication-links"><a href="{{ base_path }}{{ post.url }}">Abstract &amp; highlights</a>{% if post.paperurl %}<a href="{{ post.paperurl }}" target="_blank" rel="noopener">DOI</a>{% endif %}</div>
+  </div>
+  {% if teaser %}<a class="pub-thumb-link" href="{{ base_path }}{{ post.url }}" aria-label="View details for {{ title | strip_html }}"><img class="pub-thumb" src="{% if teaser contains '://' %}{{ teaser }}{% else %}{{ teaser | prepend: base_path }}{% endif %}" alt="Graphical abstract for {{ title | strip_html }}" loading="lazy"></a>{% endif %}
+</article>

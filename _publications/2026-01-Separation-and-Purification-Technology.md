@@ -4,11 +4,15 @@ collection: publications
 category: manuscripts
 permalink: /publication/2026-01-SPT
 teaser_img: '/images/spt_2026_ga.png'
-excerpt_text: 'This study systematically investigates the impacts of feature selection strategies on both predictive accuracy and model interpretability in data-driven flux prediction for Fenton-pretreated membrane filtration systems.'
+excerpt_text: 'This study systematically evaluates how feature-selection strategies affect predictive accuracy, model interpretability, and computational cost in data-driven membrane-flux prediction after Fenton pretreatment.'
 date: 2026-01-19
 venue: 'Separation and Purification Technology'
+authors: '<strong>Ran, H.</strong>, Wang, Y., Miao, R.*, Zhao, J.*, Wang, S., Zhang, J., Wang, P., Wang, L., & Yin, J.'
+volume: '393'
+article_number: '137304'
+author_role: 'First author'
 paperurl: 'https://doi.org/10.1016/j.seppur.2026.137304'
-citation: 'Ran, H., Miao, R.*, Zhao, J.*, & Wang, L. (2026). "Effects of feature selection on predictive performance and interpretability in data-driven modeling: A case study of membrane flux prediction after Fenton pretreatment." <i>Separation and Purification Technology</i>.'
+citation: 'Ran, H., Wang, Y., Miao, R.*, Zhao, J.*, Wang, S., Zhang, J., Wang, P., Wang, L., & Yin, J. (2026). "Effects of feature selection on predictive performance and interpretability in data-driven modeling: A case study of membrane flux prediction after Fenton pretreatment." <i>Separation and Purification Technology</i>, 393, 137304.'
 ---
 
 ### <i class="fas fa-image" style="color: #2563eb; margin-right: 6px;"></i> Graphical Abstract

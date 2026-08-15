@@ -12,7 +12,7 @@ author_profile: true
 
   <div class="info-block">
     <h3>Fenton Pretreatment &amp; Fouling Control</h3>
-    <p>Developing trace-dose Fenton pretreatment strategies at neutral pH to mitigate organic membrane fouling. My work focuses on the interfacial mechanisms through which Ca2+ and Mg2+ influence pretreatment efficacy and on practical strategies for more stable membrane operation.</p>
+    <p>Developing trace-dose Fenton pretreatment strategies at neutral pH to mitigate organic membrane fouling. My work focuses on the interfacial mechanisms through which Ca<sup>2+</sup> and Mg<sup>2+</sup> influence pretreatment efficacy and on practical strategies for more stable membrane operation.</p>
   </div>
 
   <div class="info-block">
@@ -30,7 +30,7 @@ author_profile: true
     <li>Trace-dose Fenton pretreatment for membrane organic fouling mitigation</li>
     <li>Machine learning-assisted causal inference for fouling control</li>
     <li>Data-driven membrane flux prediction and interpretability analysis</li>
-    <li>Molecular dynamics simulation of Ca2+/Mg2+ effects on Fenton pretreatment</li>
+    <li>Molecular dynamics simulation of Ca<sup>2+</sup>/Mg<sup>2+</sup> effects on Fenton pretreatment</li>
     <li>Interfacial crystallization and lithium extraction from salt-lake brine</li>
   </ul>
 </div>

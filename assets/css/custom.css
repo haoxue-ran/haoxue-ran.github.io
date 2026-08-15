@@ -1253,6 +1253,14 @@ html[data-theme="dark"] .page__footer {
   line-height: 1.55;
 }
 
+.author__focus {
+  margin: -0.45rem 0 0.9rem;
+  color: var(--steel);
+  font-size: 0.68rem;
+  font-weight: 700;
+  line-height: 1.55;
+}
+
 .author__status {
   margin: 0 0 1rem;
   padding: 0.55rem 0.65rem;
@@ -1371,6 +1379,7 @@ html[data-theme="dark"] .page__footer {
   padding: 0.72rem 1rem;
   border-radius: 2px;
   font-size: 0.72rem;
+  text-decoration: none !important;
 }
 
 .hr-section-heading {
@@ -1492,6 +1501,7 @@ html[data-theme="dark"] .page__footer {
 
 .hr-featured-pub h3 a {
   color: var(--navy);
+  text-decoration: none !important;
 }
 
 .hr-featured-pub > p {
@@ -1560,6 +1570,15 @@ html[data-theme="dark"] .page__footer {
   margin: 0.7rem 0;
   font-size: 1.08rem;
   line-height: 1.45;
+}
+
+.hr-journal-list .archive__item-title a {
+  text-decoration: none !important;
+}
+
+.hr-journal-list .archive__item-title a:hover,
+.hr-featured-pub h3 a:hover {
+  color: var(--steel);
 }
 
 .pub-authors,

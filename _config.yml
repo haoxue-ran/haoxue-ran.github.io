@@ -25,7 +25,8 @@ author:
   # Biographic information
   avatar           : "bio-photo.jpg"
   name             : "Haoxue Ran"
-  bio              : "Ph.D. Candidate · Membrane Processes & Data-Driven Environmental Engineering"
+  bio              : "Ph.D. Candidate in Environmental Engineering"
+  focus            : "Membrane Processes · Interpretable ML · Molecular Simulation"
   status           : "Available for postdoctoral positions in 2027"
   cv                : "/files/CV_Haoxue_Ran.pdf"
   location         : "Xi'an, China"

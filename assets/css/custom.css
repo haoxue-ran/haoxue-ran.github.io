@@ -698,6 +698,253 @@ a {
   margin-bottom: 0.6rem;
 }
 
+/* Academic profile components */
+
+.hr-page-intro {
+  max-width: 1000px;
+  margin: 0 0 1.6rem;
+  color: var(--ink) !important;
+  font-size: 1.12rem;
+  line-height: 1.75;
+}
+
+.hr-stat-strip {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 1px;
+  margin: 0 0 2.2rem;
+  border: 1px solid var(--line);
+  background: var(--line);
+}
+
+.hr-stat {
+  display: flex;
+  flex-direction: column;
+  min-height: 105px;
+  justify-content: center;
+  padding: 1rem 1.2rem;
+  background: var(--cream);
+}
+
+.hr-stat strong {
+  color: var(--navy);
+  font-size: 1.65rem;
+  line-height: 1;
+}
+
+.hr-stat span {
+  margin-top: 0.45rem;
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.hr-research-grid,
+.hr-skill-groups,
+.hr-role-grid,
+.hr-honor-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.hr-research-card,
+.hr-skill-groups > div,
+.hr-honor-grid > article {
+  border: 1px solid var(--line);
+  background: #fff;
+  padding: 1.25rem;
+}
+
+.hr-research-card h3,
+.hr-skill-groups h3 {
+  margin: 0.7rem 0 0.65rem;
+}
+
+.hr-research-card p,
+.hr-skill-groups p {
+  color: var(--muted);
+  line-height: 1.65;
+}
+
+.hr-card-evidence {
+  padding-top: 0.8rem;
+  border-top: 1px solid var(--line);
+  font-size: 0.9rem;
+}
+
+.hr-project-list {
+  display: grid;
+  gap: 0.75rem;
+}
+
+.hr-project-item {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 1rem;
+  align-items: center;
+  padding: 1rem 1.2rem;
+  border-left: 4px solid var(--gold);
+  background: var(--cream);
+}
+
+.hr-project-item h3,
+.hr-project-item p {
+  margin: 0;
+}
+
+.hr-project-item p {
+  margin-top: 0.3rem;
+  color: var(--muted);
+  font-size: 0.88rem;
+}
+
+.hr-role-badge,
+.talk-role,
+.talk-award-badge {
+  display: inline-block;
+  width: fit-content;
+  padding: 0.32rem 0.55rem;
+  border-radius: 999px;
+  background: #e5eef2;
+  color: var(--navy);
+  font-size: 0.68rem;
+  font-weight: 800;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.talk-labels {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin-bottom: 0.65rem;
+}
+
+.talk-award-badge {
+  background: #f3e3c4;
+  color: #8a4b08;
+}
+
+.talk-item--featured {
+  border-left: 4px solid var(--steel);
+  padding-left: 1rem;
+}
+
+.talk-item--awarded {
+  border-left: 4px solid var(--gold);
+  padding-left: 1rem;
+}
+
+.hr-role-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.hr-role-grid .info-block {
+  margin: 0;
+}
+
+.hr-section-note {
+  margin-top: -0.5rem;
+  color: var(--muted);
+}
+
+.hr-mentee-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 0.75rem;
+}
+
+.hr-mentee-grid article {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  border: 1px solid var(--line);
+  background: var(--cream);
+}
+
+.hr-mentee-grid span,
+.hr-mentee-grid time,
+.hr-honor-grid span {
+  color: var(--muted);
+  font-size: 0.82rem;
+}
+
+.hr-mentee-grid time {
+  margin-top: 0.45rem;
+  color: var(--steel);
+  font-weight: 700;
+}
+
+.hr-cv-toolbar {
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1.5rem;
+  padding: 1.25rem 1.4rem;
+  background: var(--navy);
+}
+
+.hr-cv-toolbar p {
+  max-width: 760px;
+  margin: 0;
+  color: #fff !important;
+  line-height: 1.6;
+}
+
+.hr-cv-toolbar .hr-cv-button {
+  flex: 0 0 auto;
+  margin: 0;
+  background: var(--gold);
+  color: var(--navy);
+}
+
+.hr-timeline {
+  display: grid;
+  gap: 0.9rem;
+}
+
+.hr-timeline article {
+  display: grid;
+  grid-template-columns: 110px 1fr;
+  gap: 1rem;
+  padding-bottom: 0.9rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.hr-timeline time,
+.hr-honor-grid time {
+  color: var(--steel);
+  font-weight: 800;
+}
+
+.hr-timeline h3,
+.hr-timeline p {
+  margin: 0;
+}
+
+.hr-timeline p {
+  margin-top: 0.25rem;
+  color: var(--muted);
+}
+
+.hr-compact-list {
+  margin-bottom: 0;
+}
+
+.hr-honor-grid > article {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.hr-honor-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
 /* Hero typography overrides: keep the landing copy legible over the navy panel. */
 .hr-home .hr-hero .hr-eyebrow {
   color: #f3d7a5 !important;
@@ -823,6 +1070,43 @@ html[data-theme="dark"] .pub-item {
   border-color: #2b3f4c;
 }
 
+html[data-theme="dark"] .hr-stat-strip,
+html[data-theme="dark"] .hr-stat,
+html[data-theme="dark"] .hr-research-card,
+html[data-theme="dark"] .hr-skill-groups > div,
+html[data-theme="dark"] .hr-project-item,
+html[data-theme="dark"] .hr-mentee-grid article,
+html[data-theme="dark"] .hr-honor-grid > article {
+  background: #14232e;
+  border-color: #2b3f4c;
+}
+
+html[data-theme="dark"] .hr-stat strong,
+html[data-theme="dark"] .hr-research-card h3,
+html[data-theme="dark"] .hr-skill-groups h3,
+html[data-theme="dark"] .hr-project-item h3,
+html[data-theme="dark"] .hr-mentee-grid strong,
+html[data-theme="dark"] .hr-honor-grid strong,
+html[data-theme="dark"] .hr-timeline h3 {
+  color: #f3f7f9;
+}
+
+html[data-theme="dark"] .hr-stat span,
+html[data-theme="dark"] .hr-research-card p,
+html[data-theme="dark"] .hr-skill-groups p,
+html[data-theme="dark"] .hr-project-item p,
+html[data-theme="dark"] .hr-mentee-grid span,
+html[data-theme="dark"] .hr-honor-grid span,
+html[data-theme="dark"] .hr-timeline p,
+html[data-theme="dark"] .hr-section-note {
+  color: #b9c8d1;
+}
+
+html[data-theme="dark"] .hr-timeline article,
+html[data-theme="dark"] .hr-card-evidence {
+  border-color: #2b3f4c;
+}
+
 html[data-theme="dark"] .pub-thumb {
   background: #0f1b24;
   border-color: #2b3f4c;
@@ -885,6 +1169,17 @@ html[data-theme="dark"] .page__footer {
     grid-template-columns: 1fr;
   }
 
+  .hr-research-grid,
+  .hr-skill-groups,
+  .hr-role-grid,
+  .hr-honor-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .hr-project-item {
+    grid-template-columns: 1fr;
+  }
+
   .talk-thumb,
   .pub-thumb {
     width: 100%;
@@ -912,5 +1207,14 @@ html[data-theme="dark"] .page__footer {
   .hr-news-list li {
     grid-template-columns: 1fr;
     gap: 0.25rem;
+  }
+
+  .hr-cv-toolbar {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .hr-timeline article {
+    grid-template-columns: 1fr;
   }
 }

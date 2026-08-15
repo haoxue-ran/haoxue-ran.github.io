@@ -9,10 +9,10 @@ redirect_from:
 
 <div class="hr-home">
   <section class="hr-hero">
-    <p class="hr-eyebrow">Research Identity · Membrane Fouling Control · Environmental Data Science</p>
-    <h1 class="hr-title">Decoding membrane fouling with chemistry, data, and molecular insight.</h1>
-    <p class="hr-sub">I combine trace-Fenton chemistry, explainable machine learning, causal inference, and molecular dynamics simulation to identify mechanisms and control strategies for membrane-based water treatment.</p>
-    <div class="hr-availability">Seeking postdoctoral positions starting Fall 2027</div>
+    <p class="hr-eyebrow">ADVANCED WATER TREATMENT · MEMBRANE PROCESSES · INTERFACIAL INTERACTIONS · INTERPRETABLE MACHINE LEARNING · CAUSAL INFERENCE · MOLECULAR SIMULATIONS · RESOURCE RECOVERY</p>
+    <h1 class="hr-title">From Molecular Mechanisms to Predictive Control: Advancing Sustainable Membrane-Based Water Treatment</h1>
+    <p class="hr-sub">I am Haoxue Ran, a Ph.D. candidate in Environmental Science and Engineering at the School of Environmental and Municipal Engineering, Xi'an University of Architecture and Technology (XAUAT). I conduct doctoral research under the supervision of Prof. Rui Miao and collaborate with Dr. Jin Zhao from the School of Mathematics and Statistics at Xi'an Jiaotong University.</p>
+    <div class="hr-availability">Seeking postdoctoral research positions beginning in Fall 2027</div>
     <div class="hr-actions">
       <a class="hr-btn hr-btn-primary" href="/research/">Research</a>
       <a class="hr-btn hr-btn-ghost" href="/publications/">Publications</a>
@@ -22,9 +22,9 @@ redirect_from:
 
   <section class="hr-section">
     <span class="hr-kicker">Research Statement</span>
-    <h2>Making membrane fouling mechanisms interpretable, quantifiable, and controllable.</h2>
-    <p class="hr-lead">My research connects interfacial chemistry, membrane separation, and environmental data science to make fouling control mechanisms interpretable and transferable.</p>
-    <p class="hr-body">I develop trace-dose Fenton pretreatment strategies at neutral pH to mitigate organic membrane fouling, and I use machine learning, causal inference, and molecular simulation to identify the mechanisms that govern filtration performance. I aim to move these methods from lab-scale demonstration toward robust design tools for water treatment, resource recovery, and membrane-based processes.</p>
+    <h2>Bridging molecular-level interfacial interactions and data-driven intelligence for sustainable membrane-based water treatment.</h2>
+    <p class="hr-lead">I seek postdoctoral research positions beginning in Fall 2027 in membrane separation, advanced water treatment, and mechanistic data-driven environmental process modeling.</p>
+    <p class="hr-body">My research integrates trace-dose Fenton pretreatment, molecular dynamics (MD) simulations, and interpretable machine learning/causal inference to quantify how organic foulants, divalent cations (Ca<sup>2+</sup>, Mg<sup>2+</sup>), and co-solutes govern membrane fouling and its mitigation. My goal is to move membrane fouling control from empirical optimization toward mechanistic, predictive, and precision engineering for advanced water treatment, selective separation, and resource recovery.</p>
   </section>
 
   <section class="hr-section hr-grid-wrap">
@@ -33,18 +33,18 @@ redirect_from:
     <div class="hr-grid">
       <article class="hr-card">
         <span class="hr-card-index">01</span>
-        <h3>Fenton Pretreatment &amp; Fouling Control</h3>
-        <p>Developing trace-dose Fenton strategies at neutral pH to mitigate organic membrane fouling, including the role of Ca<sup>2+</sup>/Mg<sup>2+</sup> and interfacial mechanisms.</p>
+        <h3>Advanced Oxidation Processes &amp; Membrane Fouling Control</h3>
+        <p>Developing neutral-pH, trace-dose Fenton pretreatment strategies to mitigate organic membrane fouling. Elucidating the governing mechanisms through foulant transformation, foulant&ndash;membrane adhesion, and the distinct roles of divalent cations (Ca<sup>2+</sup> and Mg<sup>2+</sup>) in fouling mitigation.</p>
       </article>
       <article class="hr-card">
         <span class="hr-card-index">02</span>
-        <h3>Machine Learning &amp; Causal Inference</h3>
-        <p>Building interpretable predictive models and causal frameworks that decouple key factors governing membrane flux, fouling, and pretreatment performance.</p>
+        <h3>Mechanistic Data-Driven Modeling &amp; Causal Inference</h3>
+        <p>Establishing systematic data-driven frameworks that integrate interpretable machine learning, causal inference, and micro-interfacial analysis to predict membrane fouling behavior, identify key governing factors, and quantitatively decouple the contributions of individual causal pathways to fouling mitigation.</p>
       </article>
       <article class="hr-card">
         <span class="hr-card-index">03</span>
-        <h3>Molecular Simulation &amp; Resource Recovery</h3>
-        <p>Using molecular dynamics and data-driven methods to study interfacial crystallization and support lithium and valuable-resource extraction from saline water.</p>
+        <h3>Molecular Simulation &amp; AI-Assisted Mechanism Discovery</h3>
+        <p>Integrating machine learning with molecular dynamics (MD) simulations to resolve nanoscale interfacial behavior, uncovering nonlinear dose&ndash;response relationships and atomic-level causal mechanisms of co-solutes during Fenton-mitigated membrane filtration.</p>
       </article>
     </div>
   </section>

@@ -655,6 +655,36 @@ a {
   margin-bottom: 0.6rem;
 }
 
+/* Hero typography overrides: keep the landing copy legible over the navy panel. */
+.hr-home .hr-hero .hr-eyebrow {
+  color: #f3d7a5 !important;
+  font-size: 0.95rem !important;
+  letter-spacing: 0.13em !important;
+  line-height: 1.7 !important;
+}
+
+.hr-home .hr-hero .hr-title {
+  color: #ffffff !important;
+  font-size: clamp(1.7rem, 3vw, 2.55rem) !important;
+  line-height: 1.18 !important;
+  max-width: 1100px !important;
+}
+
+.hr-home .hr-hero .hr-sub {
+  color: #eaf1f4 !important;
+  font-size: 1.15rem !important;
+  line-height: 1.75 !important;
+  max-width: 1050px !important;
+}
+
+.hr-home .hr-hero .hr-hero-note {
+  color: #f3d7a5 !important;
+  font-size: 1.05rem !important;
+  font-weight: 650 !important;
+  line-height: 1.7 !important;
+  max-width: 1050px !important;
+}
+
 /* Dark mode */
 
 html[data-theme="dark"] body {

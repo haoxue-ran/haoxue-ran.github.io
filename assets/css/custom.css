@@ -728,6 +728,10 @@ a {
   max-width: 1050px !important;
 }
 
+.hr-home .hr-hero .hr-availability {
+  color: var(--navy) !important;
+}
+
 /* Dark mode */
 
 html[data-theme="dark"] body {

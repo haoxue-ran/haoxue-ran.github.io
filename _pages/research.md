@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <div class="hr-subpage">
-  <p class="hr-page-intro">My research connects membrane fouling mechanisms with AI for water treatment, digital twins, membrane process optimization, and sustainable water reuse.</p>
+  <p class="hr-page-intro">My research integrates membrane fouling science, explainable AI, causal inference, and mechanistic data-driven modeling to improve membrane process performance and advance sustainable water treatment and reuse.</p>
 
   <div class="hr-stat-strip" aria-label="Research profile at a glance">
     <div class="hr-stat"><strong>4</strong><span>Journal articles</span></div>
@@ -15,10 +15,12 @@ author_profile: true
   </div>
 
   <h2 class="hr-section-title">Research Directions</h2>
-  <div class="hr-research-grid">
-    <article class="hr-research-card"><span class="hr-card-index">01 · MEMBRANE FOULING</span><h3>Membrane Fouling Mechanisms &amp; Control</h3><p>Developing neutral-pH, trace-dose Fenton pretreatment to mitigate organic membrane fouling and determine the roles of foulant transformation, membrane adhesion, and divalent cations.</p><p class="hr-card-evidence"><strong>Current work:</strong> Connecting pretreatment chemistry, interfacial force measurements, and membrane filtration performance.</p></article>
-    <article class="hr-research-card"><span class="hr-card-index">02 · AI FOR WATER TREATMENT</span><h3>AI &amp; Membrane Process Optimization</h3><p>Applying interpretable machine learning and causal inference to predict membrane flux, identify governing variables, quantify causal pathways, and support membrane process optimization.</p><p class="hr-card-evidence"><strong>Current work:</strong> Evaluating prediction, interpretation, and optimization within membrane filtration.</p></article>
-    <article class="hr-research-card"><span class="hr-card-index">03 · DIGITAL TWINS</span><h3>Digital Twins for Sustainable Water Reuse</h3><p>This research direction focuses on digital twins that integrate membrane filtration data, predictive models, and membrane process optimization for sustainable water reuse.</p><p class="hr-card-evidence"><strong>Research direction:</strong> Linking membrane fouling prediction with membrane process optimization.</p></article>
+  <div class="hr-research-grid hr-research-grid--five">
+    <article class="hr-research-card"><span class="hr-card-index">01 · MEMBRANE FOULING</span><h3>Membrane Fouling Mechanisms &amp; Control</h3><p>Investigating organic membrane fouling across molecular, interfacial, and process scales, while developing neutral-pH, trace-dose Fenton pretreatment for effective fouling mitigation.</p><p class="hr-card-evidence"><strong>Current work:</strong> Connecting pretreatment chemistry, foulant transformation, interfacial interactions, and membrane filtration performance.</p></article>
+    <article class="hr-research-card"><span class="hr-card-index">02 · EXPLAINABLE AI</span><h3>Explainable AI &amp; Causal Inference for Water Treatment</h3><p>Applying interpretable machine learning and causal inference to identify governing variables, resolve nonlinear relationships, and quantify the causal pathways underlying treatment performance.</p><p class="hr-card-evidence"><strong>Current work:</strong> Integrating predictive modeling, SHAP-based interpretation, and causal effect estimation.</p></article>
+    <article class="hr-research-card"><span class="hr-card-index">03 · MECHANISTIC MODELING</span><h3>Mechanistic Data-Driven Modeling of Membrane Processes</h3><p>Combining domain knowledge, experimental evidence, and data-driven methods to develop models that are predictive, interpretable, and mechanistically informative.</p><p class="hr-card-evidence"><strong>Current work:</strong> Linking filtration data with interfacial characterization and molecular-scale evidence.</p></article>
+    <article class="hr-research-card"><span class="hr-card-index">04 · PROCESS OPTIMIZATION</span><h3>Membrane Process Modeling &amp; Optimization</h3><p>Modeling membrane flux and fouling behavior to evaluate operating variables, optimize pretreatment conditions, and improve membrane process performance.</p><p class="hr-card-evidence"><strong>Current work:</strong> Assessing feature selection, prediction, interpretation, and optimization in membrane filtration.</p></article>
+    <article class="hr-research-card"><span class="hr-card-index">05 · WATER REUSE</span><h3>Sustainable Water Treatment &amp; Reuse</h3><p>Advancing efficient and reliable membrane-based treatment by reducing fouling, chemical demand, and operational burdens in water treatment and reuse applications.</p><p class="hr-card-evidence"><strong>Research direction:</strong> Translating mechanistic insight and data-driven tools into more sustainable membrane operation.</p></article>
   </div>
 
   <h2 class="hr-section-title">Selected Funded Research</h2>

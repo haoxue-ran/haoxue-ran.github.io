@@ -10,9 +10,9 @@ redirect_from:
 
 <div class="hr-home hr-home--refined">
   <section class="hr-hero hr-hero--refined">
-    <p class="hr-eyebrow">MEMBRANE FOULING · DIGITAL TWINS · AI FOR WATER TREATMENT · MEMBRANE PROCESS OPTIMIZATION · SUSTAINABLE WATER REUSE</p>
+    <p class="hr-eyebrow">MEMBRANE FOULING MECHANISMS &amp; CONTROL · EXPLAINABLE AI &amp; CAUSAL INFERENCE · MEMBRANE PROCESS OPTIMIZATION · SUSTAINABLE WATER TREATMENT &amp; REUSE</p>
     <h1 class="hr-title">Membrane Fouling Control and Process Optimization for Sustainable Water Reuse</h1>
-    <p class="hr-sub hr-sub--lead">My research focuses on membrane fouling, AI for water treatment, digital twins, membrane process optimization, and sustainable water reuse.</p>
+    <p class="hr-sub hr-sub--lead">My research integrates membrane fouling mechanisms and control with explainable AI, causal inference, and membrane process optimization to advance sustainable water treatment and reuse.</p>
     <p class="hr-hero-context">I am a Ph.D. candidate in Environmental Science and Engineering at Xi'an University of Architecture and Technology, advised by Prof. Rui Miao and collaborating with Dr. Jin Zhao at Xi'an Jiaotong University.</p>
     <div class="hr-opportunity-row">
       <p class="hr-availability">Available from July/September 2027</p>
@@ -30,11 +30,12 @@ redirect_from:
       <div><span class="hr-kicker">Research Profile</span><h2>From membrane fouling mechanisms to process optimization</h2></div>
       <a class="hr-inline-link" href="/research/">Full research profile &rarr;</a>
     </div>
-    <p class="hr-lead">My work combines membrane filtration experiments, interfacial characterization, AI for water treatment, causal inference, and molecular dynamics simulations.</p>
+    <p class="hr-lead">My work combines membrane filtration experiments, interfacial characterization, explainable machine learning, causal inference, and molecular dynamics simulations.</p>
     <div class="hr-home-pillars">
-      <article><span>01</span><h3>Membrane Fouling</h3><p>Mechanisms and control of organic membrane fouling using trace-dose Fenton pretreatment.</p></article>
-      <article><span>02</span><h3>AI &amp; Process Optimization</h3><p>AI for water treatment, membrane flux prediction, causal inference, and membrane process optimization.</p></article>
-      <article><span>03</span><h3>Digital Twins &amp; Water Reuse</h3><p>Developing digital twins for membrane process optimization and sustainable water reuse.</p></article>
+      <article><span>01</span><h3>Fouling Mechanisms &amp; Control</h3><p>Elucidating organic membrane fouling mechanisms and developing trace-dose Fenton pretreatment for fouling mitigation.</p></article>
+      <article><span>02</span><h3>Explainable AI &amp; Causal Inference</h3><p>Using interpretable machine learning and causal inference to identify governing factors and quantify mechanistic pathways.</p></article>
+      <article><span>03</span><h3>Membrane Process Optimization</h3><p>Modeling membrane flux and fouling behavior to support evidence-based pretreatment and process optimization.</p></article>
+      <article><span>04</span><h3>Sustainable Water Treatment &amp; Reuse</h3><p>Advancing efficient and reliable membrane processes for sustainable water treatment and reuse.</p></article>
     </div>
   </section>
 

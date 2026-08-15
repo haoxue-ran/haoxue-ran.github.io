@@ -750,6 +750,18 @@ a {
   gap: 1rem;
 }
 
+.hr-research-grid--five {
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+}
+
+.hr-research-grid--five .hr-research-card {
+  grid-column: span 2;
+}
+
+.hr-research-grid--five .hr-research-card:nth-last-child(-n + 2) {
+  grid-column: span 3;
+}
+
 .hr-research-card,
 .hr-skill-groups > div,
 .hr-honor-grid > article {
@@ -803,6 +815,7 @@ a {
 
 .hr-role-badge,
 .talk-role,
+.talk-status-badge,
 .talk-award-badge {
   display: inline-block;
   width: fit-content;
@@ -828,14 +841,10 @@ a {
   color: #8a4b08;
 }
 
-.talk-item--featured {
-  border-left: 4px solid var(--steel);
-  padding-left: 1rem;
-}
-
-.talk-item--awarded {
-  border-left: 4px solid var(--gold);
-  padding-left: 1rem;
+.talk-status-badge {
+  border: 1px solid #b8ccd7;
+  background: transparent;
+  color: var(--steel);
 }
 
 .hr-role-grid {
@@ -1176,6 +1185,11 @@ html[data-theme="dark"] .page__footer {
     grid-template-columns: 1fr;
   }
 
+  .hr-research-grid--five .hr-research-card,
+  .hr-research-grid--five .hr-research-card:nth-last-child(-n + 2) {
+    grid-column: auto;
+  }
+
   .hr-project-item {
     grid-template-columns: 1fr;
   }
@@ -1414,7 +1428,7 @@ html[data-theme="dark"] .page__footer {
 
 .hr-home-pillars {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 1rem;
   margin-top: 1.5rem;
 }

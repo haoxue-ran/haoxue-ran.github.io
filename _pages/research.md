@@ -6,31 +6,31 @@ author_profile: true
 
 <div class="hr-subpage">
   <h2 class="hr-section-title">Research Overview</h2>
-  <p>I work at the interface of membrane separation, interfacial chemistry, and environmental data science. My doctoral research develops trace-dose Fenton pretreatment technologies and data-driven frameworks for membrane fouling control, combining experimental characterization with explainable machine learning, causal inference, and molecular dynamics simulation.</p>
+  <p>My research integrates trace-dose Fenton pretreatment, molecular dynamics (MD) simulations, and interpretable machine learning/causal inference to quantify how organic foulants, divalent cations (Ca<sup>2+</sup>, Mg<sup>2+</sup>), and co-solutes govern membrane fouling and its mitigation. My goal is to move membrane fouling control from empirical optimization toward mechanistic, predictive, and precision engineering for advanced water treatment, selective separation, and resource recovery.</p>
 
   <h2 class="hr-section-title">Research Directions</h2>
 
   <div class="info-block">
-    <h3>Fenton Pretreatment &amp; Fouling Control</h3>
-    <p>Developing trace-dose Fenton pretreatment strategies at neutral pH to mitigate organic membrane fouling. My work focuses on the interfacial mechanisms through which Ca<sup>2+</sup> and Mg<sup>2+</sup> influence pretreatment efficacy and on practical strategies for more stable membrane operation.</p>
+    <h3>Advanced Oxidation Processes &amp; Membrane Fouling Control</h3>
+    <p>Developing neutral-pH, trace-dose Fenton pretreatment strategies to mitigate organic membrane fouling. Elucidating the governing mechanisms through foulant transformation, foulant&ndash;membrane adhesion, and the distinct roles of divalent cations (Ca<sup>2+</sup> and Mg<sup>2+</sup>) in fouling mitigation.</p>
   </div>
 
   <div class="info-block">
-    <h3>Machine Learning &amp; Causal Inference</h3>
-    <p>Building interpretable predictive models and causal inference frameworks to identify key factors controlling membrane flux and fouling. My work includes feature selection, explainable AI, DAG-based causal analysis, and integration of AI with molecular dynamics simulation.</p>
+    <h3>Mechanistic Data-Driven Modeling &amp; Causal Inference</h3>
+    <p>Establishing systematic data-driven frameworks that integrate interpretable machine learning, causal inference, and micro-interfacial analysis to predict membrane fouling behavior, identify key governing factors, and quantitatively decouple the contributions of individual causal pathways to fouling mitigation.</p>
   </div>
 
   <div class="info-block">
-    <h3>Molecular Simulation &amp; Resource Recovery</h3>
-    <p>Using molecular dynamics simulation to understand ion-mediated interfacial processes and applying data-driven methods to support lithium recovery and valuable-resource extraction from saline water and brine.</p>
+    <h3>Molecular Simulation &amp; AI-Assisted Mechanism Discovery</h3>
+    <p>Integrating machine learning with molecular dynamics (MD) simulations to resolve nanoscale interfacial behavior, uncovering nonlinear dose&ndash;response relationships and atomic-level causal mechanisms of co-solutes during Fenton-mitigated membrane filtration.</p>
   </div>
 
   <h2 class="hr-section-title">Selected Projects</h2>
   <ul class="hr-list">
     <li>Trace-dose Fenton pretreatment for membrane organic fouling mitigation</li>
-    <li>Machine learning-assisted causal inference for fouling control</li>
+    <li>Mechanistic data-driven modeling and causal inference for fouling control</li>
     <li>Data-driven membrane flux prediction and interpretability analysis</li>
     <li>Molecular dynamics simulation of Ca<sup>2+</sup>/Mg<sup>2+</sup> effects on Fenton pretreatment</li>
-    <li>Interfacial crystallization and lithium extraction from salt-lake brine</li>
+    <li>AI-assisted molecular simulation for nanoscale interfacial behavior</li>
   </ul>
 </div>

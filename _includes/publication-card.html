@@ -3,7 +3,7 @@
 {% assign title = post.title %}
 <article class="pub-item">
   <div class="pub-content">
-    <div class="pub-journal-line"><span>{{ post.venue }}</span><time>{{ post.date | date: "%Y" }}</time>{% if post.author_role %}<em>{{ post.author_role }}</em>{% endif %}</div>
+    <div class="pub-journal-line"><span>{{ post.venue }}</span><time>{{ post.date | date: "%Y" }}</time></div>
     <h3 class="archive__item-title"><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a></h3>
     {% if post.authors %}<p class="pub-authors">{{ post.authors }}</p>{% endif %}
     <p class="pub-bibliography"><em>{{ post.venue }}</em>{% if post.volume %}, {{ post.volume }}{% endif %}{% if post.article_number %}, {{ post.article_number }}{% endif %} ({{ post.date | date: "%Y" }})</p>

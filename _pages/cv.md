@@ -18,11 +18,11 @@ redirect_from:
     <article><time>2017–2021</time><div><h3>B.E. in Environmental Engineering</h3><p>Guilin University of Technology · Elite Engineering Program · Academic rank: 1/30</p></div></article>
   </div>
   <h2 class="hr-section-title">Research Experience</h2>
-  <div class="info-block"><h3>Graduate Student Researcher</h3><p class="talk-meta">Xi'an University of Architecture and Technology · 2022–Present</p><ul class="hr-compact-list"><li>Developed neutral-pH, trace-dose Fenton pretreatment for organic membrane-fouling mitigation.</li><li>Built predictive and interpretable data-driven frameworks for membrane-flux modeling and factor identification.</li><li>Integrated causal inference with micro-interfacial analysis to quantify fouling-mitigation pathways.</li><li>Combined artificial intelligence and molecular dynamics simulations to examine Ca<sup>2+</sup>/Mg<sup>2+</sup>-mediated mechanisms.</li></ul></div>
+  <div class="info-block"><h3>Graduate Student Researcher</h3><p class="talk-meta">Xi'an University of Architecture and Technology · 2022–Present</p><ul class="hr-compact-list"><li>Developed neutral-pH, trace-dose Fenton pretreatment for organic membrane fouling mitigation.</li><li>Built predictive and interpretable data-driven frameworks for membrane flux modeling and factor identification.</li><li>Integrated causal inference with micro-interfacial analysis to quantify fouling mitigation pathways.</li><li>Combined artificial intelligence and molecular dynamics simulations to examine Ca<sup>2+</sup>/Mg<sup>2+</sup>-mediated mechanisms.</li></ul></div>
   <h2 class="hr-section-title">Selected Research Programs</h2>
   <div class="hr-project-list hr-project-list--compact">
     <article class="hr-project-item"><div><h3>NSFC General Program</h3><p>Salt crystallization fouling during lithium extraction from brine · Proposal under review, 2026</p></div><span class="hr-role-badge">Co-drafted proposal</span></article>
-    <article class="hr-project-item"><div><h3>Shaanxi Natural Science Basic Research Program</h3><p>Multidimensional membrane-fouling control · 2026–Present</p></div><span class="hr-role-badge">Co-drafted · Research assistant</span></article>
+    <article class="hr-project-item"><div><h3>Shaanxi Natural Science Basic Research Program</h3><p>Multidimensional membrane fouling control · 2026–Present</p></div><span class="hr-role-badge">Co-drafted · Research assistant</span></article>
     <article class="hr-project-item"><div><h3>National Key R&amp;D Program, Sub-project</h3><p>Ion migration and fouling control for membranes and adsorbents · 2022–2026</p></div><span class="hr-role-badge">Research assistant</span></article>
   </div>
   <h2 class="hr-section-title">Selected Honors</h2>

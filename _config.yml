@@ -12,11 +12,11 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Haoxue Ran"
 title_separator          : "-"
 name                     : &name "Haoxue Ran"
-description              : &description "Haoxue Ran's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Haoxue Ran — membrane fouling, digital twins, AI for water treatment, membrane process optimization, and sustainable water reuse."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://haoxue-ran.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "haoxue-ran/haoxue-ran.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,7 +26,7 @@ author:
   avatar           : "bio-photo.jpg"
   name             : "Haoxue Ran"
   bio              : "Ph.D. Candidate in Environmental Engineering"
-  focus            : "Membrane Processes · Interpretable ML · Molecular Simulation"
+  focus            : "Membrane Fouling · Digital Twins · AI for Water Treatment"
   status           : "Available for postdoctoral positions in 2027"
   cv                : "/files/CV_Haoxue_Ran.pdf"
   location         : "Xi'an, China"

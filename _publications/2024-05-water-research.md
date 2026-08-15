@@ -4,13 +4,12 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-05-wr
 teaser_img: '/images/wr_2024_ga.png'
-excerpt_text: 'This study reveals a novel mechanism of in situ acid production induced by organic matter under trace homogeneous Fenton reagent, providing a highly efficient strategy for membrane fouling control without heavy chemical dosage.'
+excerpt_text: 'This study identifies in situ acid production by organic matter under trace homogeneous Fenton reagent, enabling membrane fouling control without added acidity and at trace reagent dosages.'
 date: 2024-05-15
 venue: 'Water Research'
 authors: 'Miao, R.*, <strong>Ran, H.</strong>, Yang, Y., Li, Y., Ma, Z., Lv, Y., Meng, X., He, M., & Wang, L.'
 volume: '258'
 article_number: '121752'
-author_role: 'Co-author'
 paperurl: 'https://doi.org/10.1016/j.watres.2024.121752' 
 citation: 'Miao, R.*, Ran, H., Yang, Y., Li, Y., Ma, Z., Lv, Y., Meng, X., He, M., & Wang, L. (2024). "In situ acid production by organic matter induced with trace homogeneous Fenton reagent for membrane fouling control." <i>Water Research</i>, 258, 121752.'
 ---

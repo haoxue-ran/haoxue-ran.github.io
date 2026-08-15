@@ -10,7 +10,6 @@ venue: 'Water Research'
 authors: '<strong>Ran, H.</strong>, Miao, R.*, Zhao, J.*, Zhang, H., Wang, S., Zhang, J., Wang, P., Wang, L., & Yin, J.'
 volume: '303'
 article_number: '126247'
-author_role: 'First author'
 paperurl: 'https://doi.org/10.1016/j.watres.2026.126247'
 citation: 'Ran, H., Miao, R.*, Zhao, J.*, Zhang, H., Wang, S., Zhang, J., Wang, P., Wang, L., & Yin, J. (2026). "Quantitative decoupling of the key factors and mechanisms of Fenton-pretreated membrane fouling mitigation via machine learning-assisted causal inference." <i>Water Research</i>, 303, 126247.'
 ---

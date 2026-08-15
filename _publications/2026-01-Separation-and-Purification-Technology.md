@@ -10,7 +10,6 @@ venue: 'Separation and Purification Technology'
 authors: '<strong>Ran, H.</strong>, Wang, Y., Miao, R.*, Zhao, J.*, Wang, S., Zhang, J., Wang, P., Wang, L., & Yin, J.'
 volume: '393'
 article_number: '137304'
-author_role: 'First author'
 paperurl: 'https://doi.org/10.1016/j.seppur.2026.137304'
 citation: 'Ran, H., Wang, Y., Miao, R.*, Zhao, J.*, Wang, S., Zhang, J., Wang, P., Wang, L., & Yin, J. (2026). "Effects of feature selection on predictive performance and interpretability in data-driven modeling: A case study of membrane flux prediction after Fenton pretreatment." <i>Separation and Purification Technology</i>, 393, 137304.'
 ---

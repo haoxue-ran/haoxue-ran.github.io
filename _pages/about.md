@@ -26,7 +26,19 @@ redirect_from:
 
     <p class="hr-sub">I am Haoxue Ran, a Ph.D. candidate in Environmental Science and Engineering at the School of Environmental and Municipal Engineering, Xi'an University of Architecture and Technology (XAUAT). I conduct doctoral research under the supervision of Prof. Rui Miao and collaborate with Dr. Jin Zhao from the School of Mathematics and Statistics at Xi'an Jiaotong University.</p>
 
-    <p class="hr-hero-note">My expected graduation date is June 2027. I am actively seeking postdoctoral research positions beginning in Fall 2027 in membrane separation, advanced water treatment, and mechanistic data-driven environmental process modeling.</p>
+    <p class="hr-availability">Available from July/September 2027</p>
+
+    <p class="hr-hero-note">Expected graduation: June 2027. I am actively seeking postdoctoral positions in membrane separation, advanced water treatment, and mechanistic data-driven environmental process modeling.</p>
+
+    <div class="hr-actions" aria-label="Quick links">
+
+      <a class="hr-btn hr-btn-primary" href="/research/">Research interests</a>
+
+      <a class="hr-btn hr-btn-ghost" href="/files/CV_Haoxue_Ran.pdf" target="_blank" rel="noopener">Download CV</a>
+
+      <a class="hr-btn hr-btn-ghost" href="mailto:haoxue.r@xauat.edu.cn">Contact</a>
+
+    </div>
 
   </section>
 

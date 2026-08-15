@@ -34,7 +34,7 @@ redirect_from:
       <article class="hr-card">
         <span class="hr-card-index">01</span>
         <h3>Fenton Pretreatment &amp; Fouling Control</h3>
-        <p>Developing trace-dose Fenton strategies at neutral pH to mitigate organic membrane fouling, including the role of Ca2+/Mg2+ and interfacial mechanisms.</p>
+        <p>Developing trace-dose Fenton strategies at neutral pH to mitigate organic membrane fouling, including the role of Ca<sup>2+</sup>/Mg<sup>2+</sup> and interfacial mechanisms.</p>
       </article>
       <article class="hr-card">
         <span class="hr-card-index">02</span>

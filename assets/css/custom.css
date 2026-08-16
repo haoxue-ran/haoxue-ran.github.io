@@ -1561,13 +1561,6 @@ html[data-theme="dark"] .page__footer {
   text-wrap: balance;
 }
 
-@media (min-width: 1200px) {
-  .hr-home-research .hr-section-heading h2 {
-    font-size: clamp(1.45rem, 2.2vw, 1.85rem);
-    white-space: nowrap;
-  }
-}
-
 .hr-featured-pub h3 a {
   color: var(--navy);
   text-decoration: none !important;

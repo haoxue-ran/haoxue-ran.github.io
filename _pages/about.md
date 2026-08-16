@@ -14,7 +14,8 @@ redirect_from:
     <h1 class="hr-title">Bridging Membrane Science and AI for Sustainable Water Treatment</h1>
     <p class="hr-sub hr-sub--lead">I am a Ph.D. candidate in Environmental Science and Engineering at Xi'an University of Architecture and Technology, advised by Prof. Rui Miao and collaborating with Dr. Jin Zhao at Xi'an Jiaotong University.</p>
     <div class="hr-opportunity-row">
-      <p class="hr-availability">Available from July/September 2027</p>
+      <p class="hr-availability">Seeking postdoctoral positions</p>
+      <span>Available from July/September 2027</span>
       <span>Expected Ph.D. completion: June 2027</span>
     </div>
     <div class="hr-actions" aria-label="Quick links">
@@ -26,7 +27,7 @@ redirect_from:
 
   <section class="hr-section hr-home-research">
     <div class="hr-section-heading">
-      <div><span class="hr-kicker">Research Profile</span><h2>Membrane Fouling, AI, and Process Optimization</h2></div>
+      <div><span class="hr-kicker">Research Profile</span><h2>Membrane Science and AI</h2></div>
       <a class="hr-inline-link" href="/research/">Full research profile &rarr;</a>
     </div>
     <p class="hr-lead">Across molecular, interfacial, and process scales, I connect experiments with data-driven analysis to translate mechanistic insight into more reliable membrane operation.</p>

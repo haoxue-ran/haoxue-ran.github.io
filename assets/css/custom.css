@@ -1348,7 +1348,7 @@ html[data-theme="dark"] .page__footer {
 .hr-home--refined .hr-hero .hr-sub--lead {
   position: relative;
   z-index: 1;
-  max-width: 830px !important;
+  max-width: 620px !important;
   margin-bottom: 1rem;
   color: #f0f6f8 !important;
   font-size: clamp(1.08rem, 1.7vw, 1.3rem) !important;
@@ -1428,7 +1428,7 @@ html[data-theme="dark"] .page__footer {
 
 .hr-home-pillars {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 1rem;
   margin-top: 1.5rem;
 }

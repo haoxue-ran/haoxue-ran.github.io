@@ -26,7 +26,7 @@ redirect_from:
 
   <section class="hr-section hr-home-research">
     <div class="hr-section-heading">
-      <div><span class="hr-kicker">Research Profile</span><h2>Membrane Fouling: Mechanisms, Prediction, and Control</h2></div>
+      <div><span class="hr-kicker">Research Profile</span><h2>From Fouling Mechanisms to Process Optimization</h2></div>
       <a class="hr-inline-link" href="/research/">Full research profile &rarr;</a>
     </div>
     <p class="hr-lead">Across molecular, interfacial, and process scales, I connect experiments with data-driven analysis to translate mechanistic insight into more reliable membrane operation.</p>

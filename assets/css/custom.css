@@ -1310,6 +1310,19 @@ html[data-theme="dark"] .page__footer {
   text-transform: uppercase;
 }
 
+.hr-role-badge--stacked {
+  min-width: 190px;
+  text-align: left;
+}
+
+.hr-role-badge--stacked span {
+  display: block;
+}
+
+.hr-role-badge--stacked span + span {
+  margin-top: 0.18rem;
+}
+
 .sidebar .author__urls li {
   color: var(--muted);
   font-size: 0.76rem;
@@ -1546,6 +1559,13 @@ html[data-theme="dark"] .page__footer {
 .pub-content h2,
 .archive__item-title {
   text-wrap: balance;
+}
+
+@media (min-width: 1200px) {
+  .hr-home-research .hr-section-heading h2 {
+    font-size: clamp(1.45rem, 2.2vw, 1.85rem);
+    white-space: nowrap;
+  }
 }
 
 .hr-featured-pub h3 a {

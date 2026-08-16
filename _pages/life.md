@@ -5,7 +5,7 @@ permalink: /life/
 author_profile: true
 ---
 
-<div style="font-size: 1.02rem; line-height: 1.7; color: #334155; text-align: justify; margin-top: 20px;">
+<div style="font-size: 1.02rem; line-height: 1.7; color: #334155; text-align: left; margin-top: 20px;">
 
   <p style="margin-bottom: 30px; color: #475569; font-size: 1.05rem;">
     Research is a vital part of my life, but staying active and creative outside the lab empowers my scientific thinking. Here is a glimpse into my personal passions!

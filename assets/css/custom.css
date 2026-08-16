@@ -117,7 +117,7 @@ a {
 .info-block p,
 .hr-list,
 .hr-news-list span {
-  text-align: justify;
+  text-align: left;
 }
 
 .hr-home {
@@ -1277,6 +1277,14 @@ html[data-theme="dark"] .page__footer {
   line-height: 1.55;
 }
 
+.author__focus span {
+  display: block;
+}
+
+.author__focus span + span {
+  margin-top: 0.12rem;
+}
+
 .author__status {
   margin: 0 0 1rem;
   padding: 0.55rem 0.65rem;
@@ -1286,6 +1294,20 @@ html[data-theme="dark"] .page__footer {
   font-size: 0.72rem;
   font-weight: 700;
   line-height: 1.45;
+}
+
+.author__status span,
+.author__status small {
+  display: block;
+}
+
+.author__status small {
+  margin-top: 0.2rem;
+  color: var(--steel);
+  font-size: 0.65rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
 }
 
 .sidebar .author__urls li {
@@ -1338,7 +1360,7 @@ html[data-theme="dark"] .page__footer {
 .hr-home--refined .hr-hero .hr-title {
   position: relative;
   z-index: 1;
-  max-width: 830px !important;
+  max-width: 920px !important;
   margin-bottom: 1.25rem;
   font-size: clamp(2rem, 4vw, 3.25rem) !important;
   line-height: 1.08 !important;
@@ -1348,11 +1370,11 @@ html[data-theme="dark"] .page__footer {
 .hr-home--refined .hr-hero .hr-sub--lead {
   position: relative;
   z-index: 1;
-  max-width: 620px !important;
+  max-width: 780px !important;
   margin-bottom: 1rem;
   color: #f0f6f8 !important;
-  font-size: clamp(1.08rem, 1.7vw, 1.3rem) !important;
-  line-height: 1.65 !important;
+  font-size: clamp(1rem, 1.45vw, 1.15rem) !important;
+  line-height: 1.7 !important;
   text-align: left;
 }
 
@@ -1414,6 +1436,8 @@ html[data-theme="dark"] .page__footer {
   padding: 0;
   border: 0 !important;
   font-size: clamp(1.55rem, 2.6vw, 2.1rem);
+  line-height: 1.2;
+  text-wrap: balance;
 }
 
 .hr-inline-link {
@@ -1448,7 +1472,9 @@ html[data-theme="dark"] .page__footer {
 
 .hr-home-pillars h3 {
   margin: 1rem 0 0.55rem;
-  font-size: 1.1rem;
+  font-size: 1rem;
+  line-height: 1.35;
+  text-wrap: balance;
 }
 
 .hr-home-pillars p {
@@ -1513,6 +1539,13 @@ html[data-theme="dark"] .page__footer {
   margin: 1rem 0 0.8rem;
   font-size: 1.05rem;
   line-height: 1.45;
+  text-wrap: pretty;
+}
+
+.hr-research-card h3,
+.pub-content h2,
+.archive__item-title {
+  text-wrap: balance;
 }
 
 .hr-featured-pub h3 a {

@@ -26,8 +26,11 @@ author:
   avatar           : "bio-photo.jpg"
   name             : "Haoxue Ran"
   bio              : "Ph.D. Candidate in Environmental Engineering"
-  focus            : "Water Treatment & Membrane Processes · AI-Enabled Environmental Engineering"
-  status           : "Seeking postdoctoral opportunities starting in 2027"
+  focus:
+    - "Membrane Processes"
+    - "Data-Driven Water Treatment"
+  status           : "Seeking postdoctoral opportunities"
+  status_time      : "Starting in 2027"
   cv                : "/files/CV_Haoxue_Ran.pdf"
   location         : "Xi'an, China"
   employer         : "Xi'an University of Architecture and Technology"

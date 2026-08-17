@@ -22,8 +22,8 @@ redirect_from:
   <h2 class="hr-section-title">Selected Research Programs</h2>
   <div class="hr-project-list hr-project-list--compact">
     <article class="hr-project-item"><div><h3>NSFC General Program</h3><p>Mechanisms and mitigation strategies of inorganic salt crystallization fouling on ultrafiltration membranes during lithium extraction from salt lake brine · Proposal under review, 2026</p></div><span class="hr-role-badge">Co-drafted proposal</span></article>
-    <article class="hr-project-item"><div><h3>Shaanxi Natural Science Basic Research Program</h3><p>Research on theory and application of membrane fouling control based on multidimensional influencing factors · 2026–Present</p></div><span class="hr-role-badge">Co-drafted proposal · Graduate research assistant</span></article>
-    <article class="hr-project-item"><div><h3>National Key R&amp;D Program, Sub-project</h3><p>Interfacial migration mechanisms of salt ions in brine and fouling prevention/control technologies for membranes/adsorbents · October 2022–September 2026</p></div><span class="hr-role-badge">Graduate research assistant</span></article>
+    <article class="hr-project-item"><div><h3>Shaanxi Natural Science Basic Research Program</h3><p>Research on theory and application of membrane fouling control based on multidimensional influencing factors · 2026–2029</p></div><span class="hr-role-badge">Co-drafted proposal · Graduate research assistant</span></article>
+    <article class="hr-project-item"><div><h3>National Key R&amp;D Program, Sub-project</h3><p>Interfacial migration mechanisms of salt ions in brine and fouling prevention/control technologies for membranes/adsorbents · 2022–2026</p></div><span class="hr-role-badge">Graduate research assistant</span></article>
   </div>
   <h2 class="hr-section-title">Selected Honors</h2>
   <div class="hr-honor-grid">

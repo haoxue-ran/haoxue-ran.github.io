@@ -62,7 +62,7 @@ redirect_from:
   <section class="hr-section hr-news-section">
     <div class="hr-section-heading"><div><span class="hr-kicker">Updates</span><h2>News &amp; highlights</h2></div></div>
     <ul class="hr-news-list hr-news-list--compact">
-      <li><time datetime="2026-08">Aug 2026</time><div><strong>IWA-RMTC 2026</strong><span>Scheduled to deliver an oral presentation at the 8th IWA Regional Membrane Technology Conference in Shanghai.</span></div></li>
+      <li><time datetime="2026-08">Aug 2026</time><div><strong>IWA-RMTC 2026</strong><span>Delivered an oral presentation at the 8th IWA Regional Membrane Technology Conference in Shanghai.</span></div></li>
       <li><time datetime="2026-06">Jun 2026</time><div><strong>Water Research paper published</strong><span>Machine-learning-assisted causal inference for Fenton-mitigated membrane fouling.</span></div></li>
       <li><time datetime="2026-01">Jan 2026</time><div><strong>Separation and Purification Technology paper published</strong><span>Feature selection for interpretable membrane flux prediction after Fenton pretreatment.</span></div></li>
       <li><time datetime="2025-05">May 2025</time><div><strong>Best Presentation Award</strong><span>20th National Graduate Environmental Forum, Tongji University.</span></div></li>

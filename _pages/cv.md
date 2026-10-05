@@ -27,7 +27,7 @@ redirect_from:
   </div>
   <h2 class="hr-section-title">Selected Honors</h2>
   <div class="hr-honor-grid">
-    <article><time>2025</time><strong>Third Prize</strong><span>19th “Challenge Cup” National Competition</span></article><article><time>2025</time><strong>Best Presentation Award</strong><span>20th National Graduate Environmental Forum</span></article><article><time>2025</time><strong>“Yu Dan” Excellence Scholarship</strong><span>Xi'an University of Architecture and Technology</span></article><article><time>2021</time><strong>Outstanding Undergraduate Thesis</strong><span>Guilin University of Technology</span></article><article><time>2021</time><strong>Provincial Outstanding Graduate</strong><span>Guangxi</span></article><article><time>2020</time><strong>Provincial Government Scholarship</strong><span>Guangxi</span></article>
+    <article><time>2026</time><strong>National Scholarship for Graduate Students</strong><span>Ministry of Education of China</span></article><article><time>2025</time><strong>Third Prize</strong><span>19th “Challenge Cup” National Competition</span></article><article><time>2025</time><strong>Best Presentation Award</strong><span>20th National Graduate Environmental Forum</span></article><article><time>2025</time><strong>“Yu Dan” Excellence Scholarship</strong><span>Xi'an University of Architecture and Technology</span></article><article><time>2021</time><strong>Outstanding Undergraduate Thesis</strong><span>Guilin University of Technology</span></article><article><time>2021</time><strong>Provincial Outstanding Graduate</strong><span>Guangxi</span></article>
   </div>
   <h2 class="hr-section-title">Teaching, Service &amp; Leadership</h2>
   <div class="hr-role-grid">

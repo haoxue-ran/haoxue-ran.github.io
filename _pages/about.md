@@ -8,20 +8,29 @@ redirect_from:
   - /about.html
 ---
 
-<div class="hr-home hr-home--refined">
-  <section class="hr-hero hr-hero--refined">
-    <p class="hr-eyebrow">MEMBRANE FOULING CONTROL · EXPLAINABLE AI · SUSTAINABLE WATER REUSE</p>
-    <h1 class="hr-title">Bridging Membrane Science and AI for Sustainable Water Treatment</h1>
-    <p class="hr-sub hr-sub--lead">I am a Ph.D. candidate in Environmental Engineering at Xi'an University of Architecture and Technology, advised by Prof. Rui Miao and collaborating with Dr. Jin Zhao at Xi'an Jiaotong University.</p>
-    <div class="hr-opportunity-row">
-      <p class="hr-availability">Seeking postdoctoral positions</p>
-      <span>Available to start in fall 2027</span>
-      <span>Expected Ph.D. completion: June 2027</span>
-    </div>
-    <div class="hr-actions" aria-label="Quick links">
-      <a class="hr-btn hr-btn-primary" href="/research/">Explore research</a>
-      <a class="hr-btn hr-btn-ghost" href="/files/CV_Haoxue_Ran.pdf" target="_blank" rel="noopener">Download CV</a>
-      <a class="hr-btn hr-btn-ghost" href="mailto:haoxue.r@xauat.edu.cn">Contact me</a>
+<div class="hr-home hr-home--refined academic-home">
+  <section class="hr-hero hr-hero--refined academic-hero">
+    <div class="academic-hero-inner">
+      <div class="academic-hero-text">
+        <p class="hr-eyebrow">MEMBRANE FOULING CONTROL · EXPLAINABLE AI · SUSTAINABLE WATER REUSE</p>
+        <h1 class="hr-title">Bridging Membrane Science and AI for Sustainable Water Treatment</h1>
+        <p class="hr-sub hr-sub--lead">I am a Ph.D. candidate in Environmental Engineering at Xi'an University of Architecture and Technology, advised by Prof. Rui Miao and collaborating with Dr. Jin Zhao at Xi'an Jiaotong University.</p>
+        <div class="academic-availability">
+          <strong>Seeking postdoctoral positions</strong>
+          <div><span>Available to start in fall 2027</span><span>Expected Ph.D. completion: June 2027</span></div>
+        </div>
+        <div class="hr-actions" aria-label="Quick links">
+          <a class="hr-btn hr-btn-primary" href="/research/">Explore research</a>
+          <a class="hr-btn hr-btn-ghost" href="/files/CV_Haoxue_Ran.pdf" target="_blank" rel="noopener">Download CV</a>
+          <a class="hr-btn hr-btn-ghost" href="mailto:haoxue.r@xauat.edu.cn">Contact me</a>
+        </div>
+      </div>
+      <div class="academic-hero-portrait">
+        <div class="academic-portrait-frame">
+          <img src="/images/bio-photo.jpg" alt="Portrait of Haoxue Ran" fetchpriority="high">
+          <div class="academic-portrait-caption"><strong>Haoxue Ran</strong><span>Ph.D. Candidate · Environmental Engineering</span></div>
+        </div>
+      </div>
     </div>
   </section>
 

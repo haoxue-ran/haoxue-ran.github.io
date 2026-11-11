@@ -11,7 +11,7 @@ layout: compress
     {% include head/custom.html %}
   </head>
 
-  <body>
+  <body class="site {% if page.url == '/' %}site-home{% else %}site-interior{% endif %}">
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
@@ -24,6 +24,8 @@ layout: compress
         {% include footer.html %}
       </footer>
     </div>
+
+    <div class="academic-footer"><span>&copy; {{ site.time | date: '%Y' }} Haoxue Ran</span><span><a href="mailto:haoxue.r@xauat.edu.cn">Email</a> · <a href="https://orcid.org/0009-0009-5373-0983">ORCID</a></span></div>
 
     {% include scripts.html %}
 

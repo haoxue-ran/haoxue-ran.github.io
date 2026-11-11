@@ -77,14 +77,90 @@ body.site-interior .hr-section-title { border-color: #2877c5; }
 .talk-item { border-radius: 10px; }
 .academic-footer { display: flex; justify-content: space-between; gap: 24px; align-items: center; max-width: 1312px; margin: 28px auto 0; padding: 23px 24px 30px; border-top: 1px solid #d7e5f0; background: transparent; color: #6b7f91; font-size: .75rem; }
 .academic-footer a { color: #286db1; text-decoration: none; }
+/* The blue layout needs its own complete dark palette, including elements inherited
+   from the older theme's generic .page__content rules. */
+html[data-theme="dark"] {
+  background: #0d2033;
+  --navy: #edf5fc;
+  --ink: #e8f1f8;
+  --muted: #b8cad9;
+  --line: #34516c;
+  --cream: #172e45;
+  --paper: #142a43;
+  --steel: #8fc5f5;
+  --gold: #3c95e8;
+}
 html[data-theme="dark"] body.site { background: #0d2033; color: #e8f1f8; }
+html[data-theme="dark"] body.site .masthead { background: #12283e; border-bottom-color: #34516c; box-shadow: none; }
+html[data-theme="dark"] body.site .greedy-nav,
+html[data-theme="dark"] body.site .greedy-nav button,
+html[data-theme="dark"] body.site .masthead__menu-item { background: #12283e; }
+html[data-theme="dark"] body.site .masthead__menu-item a { color: #e6f0f7; }
+html[data-theme="dark"] body.site .masthead__menu-item a:hover,
+html[data-theme="dark"] body.site .masthead__menu-item.selected a { color: #9bcefa; }
+html[data-theme="dark"] body.site .masthead__menu-item.selected a { border-bottom-color: #9bcefa; }
 html[data-theme="dark"] body.site-interior .sidebar { background: #142a43; border-color: #315876; }
 html[data-theme="dark"] body.site-interior .sidebar > div[itemscope] { background: transparent; border: 0; }
-html[data-theme="dark"] .academic-portrait-frame { background: #fff; }
-html[data-theme="dark"] .academic-portrait-caption, html[data-theme="dark"] .academic-portrait-caption strong { color: #163656 !important; }
-html[data-theme="dark"] .academic-portrait-caption span { color: #668096 !important; }
-html[data-theme="dark"] .academic-footer { color: #a9bfd1; border-color: #34516c; }
-html[data-theme="dark"] .academic-footer a { color: #8fc1ee; }
+html[data-theme="dark"] body.site-interior .sidebar .author__name,
+html[data-theme="dark"] body.site-interior h1,
+html[data-theme="dark"] body.site-interior .page__title,
+html[data-theme="dark"] body.site .page__content h3,
+html[data-theme="dark"] body.site-home .hr-section-heading h2 { color: #f0f6fb !important; }
+html[data-theme="dark"] body.site-interior .sidebar .author__bio,
+html[data-theme="dark"] body.site-interior .sidebar .author__content,
+html[data-theme="dark"] body.site-interior .sidebar .author__urls,
+html[data-theme="dark"] body.site-interior .sidebar .author__urls a,
+html[data-theme="dark"] body.site-interior .sidebar .author__focus { color: #c2d2df !important; }
+html[data-theme="dark"] body.site-interior .sidebar .author__focus { color: #9ccbf1 !important; }
+html[data-theme="dark"] body.site-interior .sidebar .author__urls li { border-color: #34516c; }
+html[data-theme="dark"] body.site .hr-page-intro,
+html[data-theme="dark"] body.site .hr-lead { color: #c9d9e6 !important; }
+html[data-theme="dark"] body.site .hr-section-title,
+html[data-theme="dark"] body.site-home .hr-section-heading { border-color: #3c95e8 !important; }
+html[data-theme="dark"] body.site .hr-kicker,
+html[data-theme="dark"] body.site .hr-card-index,
+html[data-theme="dark"] body.site .hr-research-card > span,
+html[data-theme="dark"] body.site .hr-featured-pub-meta span,
+html[data-theme="dark"] body.site .pub-journal-line span { color: #91c6f4 !important; }
+html[data-theme="dark"] body.site .hr-inline-link,
+html[data-theme="dark"] body.site .hr-publication-links a,
+html[data-theme="dark"] body.site .hr-output-list code { color: #a9d4f7 !important; }
+html[data-theme="dark"] body.site .hr-stat-strip { background: #34516c; border-color: #34516c; }
+html[data-theme="dark"] body.site .hr-stat,
+html[data-theme="dark"] body.site .hr-home-pillars article,
+html[data-theme="dark"] body.site .hr-featured-pub,
+html[data-theme="dark"] body.site .hr-research-card,
+html[data-theme="dark"] body.site .hr-skill-groups > div,
+html[data-theme="dark"] body.site .hr-honor-grid > article,
+html[data-theme="dark"] body.site .hr-mentee-grid article,
+html[data-theme="dark"] body.site .info-block,
+html[data-theme="dark"] body.site .hr-journal-list .pub-item,
+html[data-theme="dark"] body.site .hr-news-list--year li,
+html[data-theme="dark"] body.site .hr-project-item,
+html[data-theme="dark"] body.site .talk-item { background: #162d43; border-color: #34516c; box-shadow: none; }
+html[data-theme="dark"] body.site .hr-news-list--year strong,
+html[data-theme="dark"] body.site .hr-home-pillars h3,
+html[data-theme="dark"] body.site .hr-featured-pub h3 a,
+html[data-theme="dark"] body.site .hr-output-list strong { color: #f0f6fb !important; }
+html[data-theme="dark"] body.site .hr-news-list--year span,
+html[data-theme="dark"] body.site .hr-featured-pub > p,
+html[data-theme="dark"] body.site .hr-home-pillars p,
+html[data-theme="dark"] body.site .hr-output-list p { color: #c3d3df !important; }
+html[data-theme="dark"] body.site .hr-publication-links a { border-color: #55718b; }
+html[data-theme="dark"] body.site .hr-cv-toolbar { background: #183858; border: 1px solid #34516c; }
+html[data-theme="dark"] body.site .hr-cv-toolbar p { color: #e8f1f8 !important; }
+html[data-theme="dark"] body.site .hr-cv-button,
+html[data-theme="dark"] body.site .hr-cv-toolbar .hr-cv-button { background: #b9dcf7; color: #0e3152 !important; }
+html[data-theme="dark"] body.site .hr-role-badge,
+html[data-theme="dark"] body.site .talk-role,
+html[data-theme="dark"] body.site .talk-status-badge,
+html[data-theme="dark"] body.site .talk-award-badge { background: #244563; color: #d5eaff !important; }
+html[data-theme="dark"] body.site .academic-portrait-frame { background: #fff; }
+html[data-theme="dark"] body.site .academic-portrait-caption,
+html[data-theme="dark"] body.site .academic-portrait-caption strong { color: #163656 !important; }
+html[data-theme="dark"] body.site .academic-portrait-caption span { color: #668096 !important; }
+html[data-theme="dark"] body.site .academic-footer { color: #b8cbd9; border-color: #34516c; }
+html[data-theme="dark"] body.site .academic-footer a { color: #9fd0f8; }
 @media (max-width: 1050px) {
   .academic-hero-inner { grid-template-columns: minmax(0,1fr) 230px; gap: 30px; }
   .academic-portrait-frame img { height: 220px; }

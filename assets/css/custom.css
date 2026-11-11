@@ -1596,6 +1596,10 @@ html[data-theme="dark"] .page__footer {
   grid-template-columns: 105px 1fr;
 }
 
+.hr-news-list--year li {
+  grid-template-columns: minmax(0, 1fr);
+}
+
 .hr-publications-page .hr-page-intro {
   max-width: 900px;
 }

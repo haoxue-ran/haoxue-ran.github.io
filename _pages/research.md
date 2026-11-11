@@ -5,21 +5,14 @@ author_profile: true
 ---
 
 <div class="hr-subpage">
-  <p class="hr-page-intro">My research integrates membrane fouling science, explainable AI, causal inference, and mechanistic data-driven modeling to improve membrane process performance and advance sustainable water treatment and reuse.</p>
-
-  <div class="hr-stat-strip" aria-label="Research profile at a glance">
-    <div class="hr-stat"><strong>4</strong><span>Journal articles</span></div>
-    <div class="hr-stat"><strong>5</strong><span>Patent records</span></div>
-    <div class="hr-stat"><strong>1</strong><span>Software copyright</span></div>
-    <div class="hr-stat"><strong>3</strong><span>Integrated approaches</span></div>
-  </div>
+  <p class="hr-page-intro">My research combines membrane fouling experiments, interfacial analysis, and explainable AI to improve membrane processes for water treatment and reuse.</p>
 
   <h2 class="hr-section-title">Research Directions</h2>
   <div class="hr-research-grid hr-research-grid--five">
     <article class="hr-research-card"><span class="hr-card-index">01 · MEMBRANE FOULING</span><h3>Membrane Fouling Mechanisms &amp; Control</h3><p>Developing trace-dose Fenton pretreatment at neutral pH to mitigate organic membrane fouling and elucidating the roles of foulant transformation, interfacial interactions, and divalent metal ions.</p></article>
-    <article class="hr-research-card"><span class="hr-card-index">02 · EXPLAINABLE AI</span><h3>Explainable AI &amp; Causal Inference for Water Treatment</h3><p>Integrating predictive modeling, explainable AI, causal inference, and directed acyclic graphs to identify governing factors and quantify causal pathways in membrane fouling mitigation.</p></article>
-    <article class="hr-research-card"><span class="hr-card-index">03 · MECHANISTIC MODELING</span><h3>Mechanistic Data-Driven Modeling of Membrane Processes</h3><p>Combining data-driven models with interfacial analysis and molecular dynamics simulations to connect predictive patterns with molecular-scale and causal mechanisms.</p></article>
-    <article class="hr-research-card"><span class="hr-card-index">04 · PROCESS OPTIMIZATION</span><h3>Membrane Process Modeling &amp; Optimization</h3><p>Predicting membrane flux and fouling behavior, evaluating feature-selection strategies, and optimizing Fenton pretreatment dosage under varying operating conditions.</p></article>
+    <article class="hr-research-card"><span class="hr-card-index">02 · EXPLAINABLE AI</span><h3>Explainable AI &amp; Causal Inference for Water Treatment</h3><p>Using interpretable models and directed acyclic graphs to identify influential factors and evaluate potential causal pathways in membrane fouling mitigation.</p></article>
+    <article class="hr-research-card"><span class="hr-card-index">03 · INTERFACIAL ANALYSIS</span><h3>Molecular and Interfacial Analysis</h3><p>Combining interfacial measurements with molecular dynamics simulations to examine membrane–foulant interactions and the effects of Ca<sup>2+</sup> and Mg<sup>2+</sup> on fouling mitigation.</p></article>
+    <article class="hr-research-card"><span class="hr-card-index">04 · PROCESS OPTIMIZATION</span><h3>Membrane Process Modeling &amp; Optimization</h3><p>Developing interpretable models for membrane flux prediction, assessing feature-selection strategies, and optimizing Fenton pretreatment dosage across operating conditions.</p></article>
     <article class="hr-research-card"><span class="hr-card-index">05 · WATER REUSE</span><h3>Sustainable Water Treatment &amp; Reuse</h3><p>Extending membrane fouling control and process analysis toward efficient municipal secondary-effluent reuse and resource-oriented membrane treatment.</p></article>
   </div>
 

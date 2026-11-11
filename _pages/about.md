@@ -15,7 +15,7 @@ redirect_from:
     <p class="hr-sub hr-sub--lead">I am a Ph.D. candidate in Environmental Engineering at Xi'an University of Architecture and Technology, advised by Prof. Rui Miao and collaborating with Dr. Jin Zhao at Xi'an Jiaotong University.</p>
     <div class="hr-opportunity-row">
       <p class="hr-availability">Seeking postdoctoral positions</p>
-      <span>Available from July/September 2027</span>
+      <span>Available to start in fall 2027</span>
       <span>Expected Ph.D. completion: June 2027</span>
     </div>
     <div class="hr-actions" aria-label="Quick links">
@@ -60,13 +60,13 @@ redirect_from:
   </section>
 
   <section class="hr-section hr-news-section">
-    <div class="hr-section-heading"><div><span class="hr-kicker">Updates</span><h2>News &amp; highlights</h2></div></div>
-    <ul class="hr-news-list hr-news-list--compact">
-      <li><time datetime="2026-10">Oct 2026</time><div><strong>National Scholarship for Graduate Students</strong><span>Awarded by the Ministry of Education of China.</span></div></li>
-      <li><time datetime="2026">2026</time><div><strong>Grand Prize</strong><span>China Youth Science and Technology Innovation Challenge.</span></div></li>
-      <li><time datetime="2026">2026</time><div><strong>Second-class Scholarship</strong><span>Xi'an University of Architecture and Technology.</span></div></li>
-      <li><time datetime="2026-08">Aug 2026</time><div><strong>IWA-RMTC 2026</strong><span>Delivered an oral presentation at the 8th IWA Regional Membrane Technology Conference in Shanghai.</span></div></li>
-      <li><time datetime="2026-06">Jun 2026</time><div><strong>Water Research paper published</strong><span>Machine-learning-assisted causal inference for Fenton-mitigated membrane fouling.</span></div></li>
+    <div class="hr-section-heading"><div><span class="hr-kicker">2026</span><h2>News &amp; highlights</h2></div></div>
+    <ul class="hr-news-list hr-news-list--compact hr-news-list--year">
+      <li><div><strong>National Scholarship for Graduate Students</strong><span>Awarded by the Ministry of Education of China.</span></div></li>
+      <li><div><strong>Grand Prize</strong><span>China Youth Science and Technology Innovation Challenge.</span></div></li>
+      <li><div><strong>Second-class Scholarship</strong><span>Xi'an University of Architecture and Technology.</span></div></li>
+      <li><div><strong>IWA-RMTC 2026</strong><span>Delivered an oral presentation at the 8th IWA Regional Membrane Technology Conference in Shanghai.</span></div></li>
+      <li><div><strong>Water Research paper published</strong><span>Machine-learning-assisted causal inference for Fenton-mitigated membrane fouling.</span></div></li>
     </ul>
   </section>
 </div>

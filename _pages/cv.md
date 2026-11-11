@@ -27,12 +27,17 @@ redirect_from:
   </div>
   <h2 class="hr-section-title">Selected Honors</h2>
   <div class="hr-honor-grid">
-    <article><time>2026</time><strong>National Scholarship for Graduate Students</strong><span>Ministry of Education of China</span></article><article><time>2025</time><strong>Third Prize</strong><span>19th “Challenge Cup” National Competition</span></article><article><time>2025</time><strong>Best Presentation Award</strong><span>20th National Graduate Environmental Forum</span></article><article><time>2025</time><strong>“Yu Dan” Excellence Scholarship</strong><span>Xi'an University of Architecture and Technology</span></article><article><time>2021</time><strong>Outstanding Undergraduate Thesis</strong><span>Guilin University of Technology</span></article><article><time>2021</time><strong>Provincial Outstanding Graduate</strong><span>Guangxi</span></article>
+    <article><time>2026</time><strong>National Scholarship for Graduate Students</strong><span>Ministry of Education of China</span></article>
+    <article><time>2026</time><strong>Grand Prize</strong><span>China Youth Science and Technology Innovation Challenge</span></article>
+    <article><time>2026</time><strong>Second-class Scholarship</strong><span>Xi'an University of Architecture and Technology</span></article>
+    <article><time>2025</time><strong>Third Prize</strong><span>19th “Challenge Cup” National Competition</span></article>
+    <article><time>2025</time><strong>Best Presentation Award</strong><span>20th National Graduate Environmental Forum</span></article>
+    <article><time>2025</time><strong>“Yu Dan” Excellence Scholarship</strong><span>Xi'an University of Architecture and Technology</span></article>
   </div>
   <h2 class="hr-section-title">Teaching, Service &amp; Leadership</h2>
   <div class="hr-role-grid">
     <article class="info-block"><h3>Teaching &amp; Mentoring</h3><p>Graduate teaching assistant for approximately 120 students; research seminar coordinator; mentoring support for five undergraduate and master's researchers.</p><a class="hr-text-link" href="/teaching/">View details &rarr;</a></article>
-    <article class="info-block"><h3>Professional Service</h3><p>Assisted manuscript review for journals including <em>Water Research</em>, <em>Journal of Membrane Science</em>, and <em>Chemical Engineering Journal</em>; student laboratory manager and departmental safety coordinator.</p></article>
+    <article class="info-block"><h3>Professional Service</h3><p>Assisted manuscript review for journals including <em>Environmental Science &amp; Technology</em>, <em>Water Research</em>, and <em>Journal of Membrane Science</em>; student laboratory manager and departmental safety coordinator.</p></article>
   </div>
   <h2 class="hr-section-title">Research Skills</h2>
   <div class="hr-skill-groups">

@@ -12,7 +12,7 @@ redirect_from:
   <section class="hr-hero hr-hero--refined">
     <p class="hr-eyebrow">MEMBRANE FOULING CONTROL · EXPLAINABLE AI · SUSTAINABLE WATER REUSE</p>
     <h1 class="hr-title">Bridging Membrane Science and AI for Sustainable Water Treatment</h1>
-    <p class="hr-sub hr-sub--lead">I am a Ph.D. candidate in Environmental Science and Engineering at Xi'an University of Architecture and Technology, advised by Prof. Rui Miao and collaborating with Dr. Jin Zhao at Xi'an Jiaotong University.</p>
+    <p class="hr-sub hr-sub--lead">I am a Ph.D. candidate in Environmental Engineering at Xi'an University of Architecture and Technology, advised by Prof. Rui Miao and collaborating with Dr. Jin Zhao at Xi'an Jiaotong University.</p>
     <div class="hr-opportunity-row">
       <p class="hr-availability">Seeking postdoctoral positions</p>
       <span>Available from July/September 2027</span>
@@ -63,10 +63,10 @@ redirect_from:
     <div class="hr-section-heading"><div><span class="hr-kicker">Updates</span><h2>News &amp; highlights</h2></div></div>
     <ul class="hr-news-list hr-news-list--compact">
       <li><time datetime="2026-10">Oct 2026</time><div><strong>National Scholarship for Graduate Students</strong><span>Awarded by the Ministry of Education of China.</span></div></li>
+      <li><time datetime="2026">2026</time><div><strong>Grand Prize</strong><span>China Youth Science and Technology Innovation Challenge.</span></div></li>
+      <li><time datetime="2026">2026</time><div><strong>Second-class Scholarship</strong><span>Xi'an University of Architecture and Technology.</span></div></li>
       <li><time datetime="2026-08">Aug 2026</time><div><strong>IWA-RMTC 2026</strong><span>Delivered an oral presentation at the 8th IWA Regional Membrane Technology Conference in Shanghai.</span></div></li>
       <li><time datetime="2026-06">Jun 2026</time><div><strong>Water Research paper published</strong><span>Machine-learning-assisted causal inference for Fenton-mitigated membrane fouling.</span></div></li>
-      <li><time datetime="2026-01">Jan 2026</time><div><strong>Separation and Purification Technology paper published</strong><span>Feature selection for interpretable membrane flux prediction after Fenton pretreatment.</span></div></li>
-      <li><time datetime="2025-05">May 2025</time><div><strong>Best Presentation Award</strong><span>20th National Graduate Environmental Forum, Tongji University.</span></div></li>
     </ul>
   </section>
 </div>
